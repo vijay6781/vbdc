@@ -1,8 +1,5 @@
-<!doctype html>
+
 <html>
-<head>
-<title>discover help</title>
-</head>
 
 
 <body>
