@@ -1,9 +1,13 @@
-
+<!doctype html>
+<html>
 <head>
+<title>discover help</title>
 </head>
+
+
 <body>
- <div><img style="-webkit-user-select: none;margin: auto;" src="https://yt3.ggpht.com/a/AATXAJzL3lJx71y0-Zw3mITaW6DDfwg9ztjB4PgtYg=s100-c-k-c0xffffffff-no-rj-mo">  </div>
-<h1 id="specia> Discovery Coaching Noorsarai<br>Vs Old Book Sell </h1>
+ 
+<h1 id="special2"> Discovery Coaching Noorsarai<br>Vs Old Book Sell </h1>
  <h2 class="ram"><a href="http://biharboardonline.bihar.gov.in/">Bihar Board 10th Result Link</a></h2>
  <h2 class="ram"><a href="http://cbseresults.nic.in/class10/class10th19.htm"> CBSE 10th Result Link</a></h2>
  <h3 id="ts"><a href="https://www.facebook.com/pages/category/Education/Discovery-Coaching-Noorsarai-Nalanda-1250305765120469/"> JOIN TO MY FACEBOOK PAGE</a></h3>
@@ -19,11 +23,7 @@
         <th  id="viju"scope="col">MRP(₹)</th>
         <th  id="viju"scope="col">Discount</th>
         <th id="viju" scope="col"> Selling Price(₹)</th>
-  <style type="text/css">
-  #viju{
-  color:red;
-  }
-  </style>
+    
 </tr>
 <tr>
  <th scope="row">1.</th>
@@ -37,7 +37,7 @@
 <tr>
 	<th scope="row">2.</th>
 <td><a href="https://www.youtube.com/watch?v=atvxf9aDxMQ">Second Video Link</a></td>
-<td>Upsc NDA/NA</td>
+<td id="viju">Upsc NDA/NA</td>
 <td id="viju">650</td>
 <td id="viju">90%</td>
 <td id="viju">65</td>
