@@ -4,7 +4,7 @@
 
 <body>
 	<div><img style="-webkit-user-select: none;margin: auto;" src="https://yt3.ggpht.com/a/AATXAJzL3lJx71y0-Zw3mITaW6DDfwg9ztjB4PgtYg=s100-c-k-c0xffffffff-no-rj-mo">  </div>
-<h1 id="special2">  DiSCOVERY Coaching Noorsarai<br>Vs Old Book Sell </h1>
+<h1 id="special2">  DiSCOVERY COACHING NOORSARAI<br>VS OLD BOOK SELL </h1>
  <h2 class="ram"><a href="http://biharboardonline.bihar.gov.in/">Bihar Board 10th Result Link</a></h2>
  <h2 class="ram"><a href="http://cbseresults.nic.in/class10/class10th19.htm"> CBSE 10th Result Link</a></h2>
  <h3 id="ts"><a href="https://www.facebook.com/pages/category/Education/Discovery-Coaching-Noorsarai-Nalanda-1250305765120469/"> JOIN TO MY FACEBOOK PAGE</a></h3>
