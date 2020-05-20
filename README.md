@@ -1,7 +1,6 @@
 
 <html>
 
-
 <body>
 	<div><img style="-webkit-user-select: none;margin: auto;" src="https://yt3.ggpht.com/a/AATXAJzL3lJx71y0-Zw3mITaW6DDfwg9ztjB4PgtYg=s100-c-k-c0xffffffff-no-rj-mo">  </div>
 <h1 id="special2">  DiSCOVERY    COACHING NOORSARAI<br>VS OLD BOOK SELL </h1>
@@ -16,10 +15,10 @@
 <tr>
 	<th scope="col">s.N.</th>
         <th scope="col">Video Link</th>
-        <th  id="viju" scope="col">Name of book</th>
+        <th  id="viju" scope="col">bookName</th>
         <th  id="viju"scope="col">MRP(₹)</th>
         <th  id="viju"scope="col">Discount</th>
-        <th id="viju" scope="col"> Selling Price(₹)</th>
+        <th id="viju" scope="col">sellPrice(₹)</th>
     
 </tr>
 <tr>
