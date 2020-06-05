@@ -46,14 +46,14 @@ footer {
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="https://images.pexels.com/photos/1647962/pexels-photo-1647962.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="Chicago" width="1100" height="500">
+      <img src="https://images.pexels.com/photos/1647962/pexels-photo-1647962.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="Chicago" width="1100" height="300">
       <div class="carousel-caption">
         <h3>Chicago</h3>
         <p>Thank you, Chicago!</p>
       </div>   
     </div>
     <div class="carousel-item">
-      <img src="https://images.pexels.com/photos/1295138/pexels-photo-1295138.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="New York" width="1100" height="500">
+      <img src="https://images.pexels.com/photos/1295138/pexels-photo-1295138.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="New York" width="1100" height="300">
       <div class="carousel-caption">
         <h3>New York</h3>
         <p>We love the Big Apple!</p>
