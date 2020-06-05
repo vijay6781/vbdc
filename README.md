@@ -39,7 +39,7 @@ footer {
   </ul>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="https://images.pexels.com/photos/2850287/pexels-photo-2850287.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="Los Angeles" width="1100" height="500">
+      <img src="https://images.pexels.com/photos/2850287/pexels-photo-2850287.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300" alt="Los Angeles" width="900" height="300">
       <div class="carousel-caption">
         <h3>Los Angeles</h3>
         <p>We had such a great time in LA!</p>
