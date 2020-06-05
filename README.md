@@ -1,95 +1,292 @@
-
 <html>
+<head>
+<html lang="en">
+<head>
+  <title>Bootstrap 4 Website Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+</head>
+<style type="text/css">
+  body {
+      position: relative; 
+  }
+    @import "{{ site.theme }}";
 
+footer {
+  display: none !important;
+}
 
-<body>
-	<div><img style="-webkit-user-select: none;margin: auto;" src="https://yt3.ggpht.com/a/AATXAJzL3lJx71y0-Zw3mITaW6DDfwg9ztjB4PgtYg=s100-c-k-c0xffffffff-no-rj-mo">  </div>
-<h1 id="special2"> DiSCOVERY    COACHING NOORSARAI<br>VS OLD BOOK SELL </h1>
- <h2 class="ram"><a href="http://biharboardonline.bihar.gov.in/">Bihar Board 10th Result Link</a></h2>
- <h2 class="ram"><a href="http://cbseresults.nic.in/class10/class10th19.htm"> CBSE 10th Result Link</a></h2>
- <h3 id="ts"><a href="https://www.facebook.com/pages/category/Education/Discovery-Coaching-Noorsarai-Nalanda-1250305765120469/"> JOIN TO MY FACEBOOK PAGE</a></h3>
-<h2 id="special"><span><br>Video Created By:Babloo Sir
-<br>Discovery Math Video Link:<span></h2>
-<div><h4 class="Babloo">FOR STUDENT HELP</h4></div>	
+.btn {
+  display: none !important;
+}
+.tbody {
+  min-height:40px;
+  overflow-y:scroll;
+}
+</style>
 
-<table>
-<tr>
-	<th scope="col">s.N.</th>
-        <th scope="col">Video Link</th>
-        <th  id="viju" scope="col">Name of book</th>
-        <th  id="viju"scope="col">MRP(₹)</th>
-        <th  id="viju"scope="col">Discount</th>
-        <th id="viju" scope="col"> Selling Price(₹)</th>
-    
-</tr>
-<tr>
- <th scope="row">1.</th>
- <td><a href="https://www.youtube.com/watch?v=p2w6UGHEd00">First Video Link</a></td>
- <td  id="viju" >NCERT CHEMESTRY 11th(english)</td>
- <td  id="viju">155</td>
- <td  id="viju">90%</td>
- <td  id="viju">15</td>
+<body data-spy="scroll"  data-offset="50">
+  
+  <div class="container text-center">                             
+  <div class="spinner-grow text-danger pt-0 mt-1"></div>
+   <div class="spinner-grow text-white"><span style="color:red;text-align:center">Live</span></div>
+</div>
 
+<div class="container-fluid table-hover  table-striped">
+  <div class="row text-center mx-auto">
+    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-4 mt-4">     
+  <table >
+<tr>
+  <th scope="col" style="background:#55ff00">Latest Job</th>
+      
+      
+</tr>
+<tbody class="tbody" >
+  
+    <tr>
+ <td> <a href="amin20.html">Bihar LRC (BCECE) Amin correction Of Application Form 2020 </a><span style="color:red">New</span></td>
+ 
+  
+</tr>
+  <tr>
+ <td> <a href="sebi20.html">SEBI Assistant Manager Online Form 2020 </a><span style="color:red">Extended</span></td>
+ 
+  
+</tr>
+
+  
+<tr>
+ <td> <a href="bpscmotor20.html">BPSC Motor Vehicle Inspector MVI Recruitment Online Form 2020 </a><span style="color:red">Extended</span></td>
+ 
+  
+</tr>
+
+<tr>
+  
+ <td> <a href="drdo2020.html">DRDO Scientist B Recruitment 2020 Online Form</a> </td>
+
+ 
+</tr>
+
+<tr>
+  
+ <td><a href="bcece20.html">BCECE City Manager Recruitment Online Form 2020</a><span style="color:red">Extended</span></td>
+ 
+ 
 </tr>
 <tr>
-	<th scope="row">2.</th>
-<td><a href="https://www.youtube.com/watch?v=atvxf9aDxMQ">Second Video Link</a></td>
-<td id="viju">Upsc NDA/NA</td>
-<td id="viju">650</td>
-<td id="viju">90%</td>
-<td id="viju">65</td>
+
+ <td>  CBSE 12th Result</td>
+
+ 
 </tr>
-<tr>
-	<th scope="row">3.</th>
-<td><a href="https://www.youtube.com/watch?v=vg_HYDI23as">Third Video Link</a></td>
-<td id="viju">Bharati Bhavan Math 10th(Hindi)</td>
-<td id="viju">165</td>
-<td id="viju">90%</td>
-<td id="viju">16</td>
-</tr>
-<tr>
-	<th scope="row">4.</th>
-<td><a href="https://www.youtube.com/watch?v=_TEXkQWnZzo">Forth Video Link</a></td>
-<td id="viju">Rainbow part-ii 12th</td>
-<td id="viju">48</td>
-<td id="viju">80%</td>
-<td id="viju">10</td>
-</tr>
-<tr>
-	<th scope="row">5.</th>
-<td><a href="https://www.youtube.com/watch?v=iHQMcLmDWYg">Fifth Video Link</a></td>
-<td id="viju">Biology 10th Bharati Bhavan(#NEW)</td>
-<td id="viju">120</td>
-<td id="viju">70%</td>
-<td id="viju">36</td>
-</tr>
-<tr>
-	<th scope="row">6.</th>
-<td><a href="https://www.youtube.com/watch?v=ev9dilWBriw"> Sixth Video Link</a></td>
-<td id="viju">Biology 9th Bharati Bhavan(#NEW)</td>
-<td id="viju">135</td>
-<td id="viju">70%</td>
-<td id="viju">40</td>
-</tr>
-<tr>
-	<th scope="row">7.</th>
-<td><a href="https://www.youtube.com/watch?v=ev9dilWBriw"> Seventh Video Link</a></td>
-<td id="viju">Science 8 Bharati Bhavan(#NEW)</td>
-<td id="viju">175</td>
-<td id="viju">70%</td>
-<td id="viju">52</td>
-</tr>
-<tr>
-	<th scope="row">8.</th>
-<td><a href="https://www.youtube.com/watch?v=mrncbOg43Z4"> eighth Video Link</a></td>
-<td id="viju">Maths 9th Bharati Bhavan(#NEW)</td>
-<td id="viju">165</td>
-<td id="viju">70%</td>
-<td id="viju">49</td>
-</tr>
+
+</tbody>
 </table>
-<h4 id="vkkk">CONTACT: Discovery Coaching Noorsarai,Sangat(Nalanda)<br>
-THANK YOU...</h4>
-</body>
+    </div>
+    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-3 mt-4">
+     <table >
+  
+<tr>
+  <th scope="col" style="background:#55ff00">Bihar/up Job</th>     
+</tr>
+<tbody class="tbody" >
+      <tr>
+ <td> <a href="amin20.html">Bihar LRC (BCECE) Amin correction Of Application Form 2020 </a><span style="color:red">New</span></td>  
+</tr>
+<tr>
+ <td> <a href="bpscmotor20.html">BPSC Motor Vehicle Inspector MVI Recruitment Online Form 2020 </a><span style="color:red">Extended</span></td> 
+</tr>
+<tr>
+ <td><a href="bcece20.html">BCECE City Manager Recruitment Online Form 2020</a><span style="color:red">Extended</span></td>
+ 
+ 
+</tr>
 
-</html>  
+<tr>
+  
+ <td><a href="Biharscrutiny20.html">Bihar Board Scrutiny / RTI Form 2020</a></td>
+
+ 
+</tr>
+<tr>
+
+ <td>  CBSE 12th Result</td>
+
+ 
+</tr>
+</tbody>
+</table >
+    </div>
+   <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
+     <table >
+  
+<tr>
+  <th scope="col" style="background:#55ff00">Tech job</th>
+        
+      
+</tr>
+<tbody class="tbody" >
+<tr>
+ <td><a href="drdo2020.html">DRDO Scientist B<br> Recruitment 2020<br> Online Form</a> </td>
+ 
+  
+</tr>
+
+<tr>
+  
+  <td> <a href="bpscmotor20.html">BPSC Motor Vehicle Inspector MVI Recruitment Online Form 2020 </a><span style="color:red">Extended</span></td>
+
+</tr>
+
+<tr>
+  
+ <td>  CBSE 10th Result</td>
+ 
+ 
+</tr>
+<tr>
+
+ <td>  CBSE 12th Result</td>
+
+</tr>
+
+</tbody>
+
+</table >
+
+ </div>
+   <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
+     <table >
+  
+<tr>
+  <th scope="col" style="background:#55ff00">Result</th>
+        
+      
+</tr>
+<tbody class="tbody" >
+  <tr>
+ <td><a href="http://upbasiceduboard.gov.in/Result.pdf">UP 69000 Assistant Teacher Merit List 2020</a></td>
+ 
+  
+</tr>
+<tr>
+ <td><a href="index1.html">Bihar 10th Result</a></td>
+ 
+  
+</tr>
+
+<tr>
+  
+ <td><a href="http://www.bpsc.bih.nic.in/Advt/NB-2020-05-30-01.pdf">BPSC Assistant 2018 Revised Result</a></td>
+
+</tr>
+
+<tr>
+  
+ <td>  CBSE 10th Result</td>
+ 
+ 
+</tr>
+<tr>
+
+ <td>  CBSE 12th Result</td>
+
+</tr>
+</tbody>
+</table >
+    </div>
+   <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
+     <table >
+  
+<tr>
+  <th scope="col" style="background:#55ff00">Admit Card </th>
+        
+      
+</tr>
+<tbody class="tbody" >
+<tr>
+  <td><a href="sscchsl.html">SSC CHSL Left Over Paper Exam Date 2020</a></td>
+ 
+  
+</tr>
+
+<tr>
+  
+ <td> Bihar Board 12th Result </td>
+
+</tr>
+
+<tr>
+  
+ <td>  CBSE 10th Result</td>
+ 
+ 
+</tr>
+<tr>
+
+ <td>  CBSE 12th Result</td>
+
+</tr>
+</tbody>
+</table >
+    </div>
+   <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-4">
+     <table >
+  
+<tr>
+  <th scope="col" style="background:#55ff00">college/university Book</th>
+        
+      
+</tr>
+<tbody class="tbody" >
+<tr>
+ <td><a href="https://vijayrampeesa.files.wordpress.com/2016/07/computer-system-architecture-morris-mano-third-edition.pdf"> Computer System Architecture-morris mano</a></td>
+ 
+  
+</tr>
+
+<tr>
+  
+ <td> Bihar Board 12th Result </td>
+
+</tr>
+
+<tr>
+  
+ <td>  CBSE 10th Result</td>
+ 
+ 
+</tr>
+<tr>
+
+ <td>  CBSE 12th Result</td>
+
+</tr>
+</tbody>
+</table >
+    </div>
+  </div>
+</div>
+<div class="text-center mt-3">
+<h5><a href="https://vijay6781.github.io/Lifelong/"><span style="text-align:center">Student Book Help</span></a></h5>
+</div>
+<div class="text-center">
+  <h3><span style="text-align:center; color:green">website is updating</span></h3>
+  </div>
+  <div class="text-center">
+  <h5><span style="text-align:center;color:blue">contact us: vjhelpcare@gmail.com</span></h5>
+  <h4><span style="text-align:center;color:rgb(200,90,70)">Thank You..</span></h4>
+  </div>
+         
+  <script src="https://code.jquery.com/jquery-3.5.1.js"></script>  
+   
+ <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+
+</body>
+</html>
