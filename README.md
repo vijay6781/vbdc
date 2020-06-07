@@ -19,6 +19,10 @@ footer {
   display: none !important;
 }
 
+header{
+display: none;
+}
+
 .btn {
   display: none !important;
 }
@@ -26,6 +30,7 @@ footer {
   min-height:40px;
   overflow-y:scroll;
 }
+
 </style>
 
 <body data-spy="scroll"  data-offset="50">
