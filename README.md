@@ -322,7 +322,7 @@ display: none;
     <div class="col-sm-12 col-xs-12 col-md-12 col-lg-12 ml-4 mr-4 mb-4 mt-4"> 
 <div class="content_area">
 <div class="container">
-<h2 class="heading">Get Access to Detailed Information </h2>
+ <div class="bg-success"><h2 class="heading">Get Access to Detailed Information </h2></div>
 <p>Sarkariresult.com is a one-stop destination for all queries on Sarkari results. It has a list of all the Government exams, which can be seen as links. If one clicks on these exam names or links, the website provides exhaustive information on that specific exam. This includes the timeline when the exam is conducted, <a href="https://www.sarkariresult.com/admitcard.php">admit card</a> information, the number of seats offered, application forms, Sarkari result dates etc. </p>
 <h2 class="heading">Online Application Process</h2>
 <p>It is now easy to apply for any Government job online. Some of the posts even allow the submission of scanned copies of identification documents. The internet has made it very easy to apply for these jobs, which was once considered to be a cumbersome task. Sarkari result <a href="https://www.sarkariresult.com/admission.php">online form</a> can be found on sarkariresult.com. After applying for the exam, one has to appear for the exam and wait for the Sarkari exam result. Some of the exams have multiple stages, and hence, one has to be prepared for all the levels. </p>
