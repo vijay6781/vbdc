@@ -320,13 +320,6 @@ display: none;
 </script>
 <div class="content_area">
 <div class="container">
-<p> India has witnessed a high demand for Government jobs for many decades. People prefer Government jobs as their career option considering the wide variety oso offer job security for a lifetime, and hence a lot of youth prefer them. Getting into a Government job requires a person to go through multiple levels of tests. These include a written examination, interview and sometimes even physical examination. These are competitive exams, and millions of people appear for these exams to get into a coveted Government job.</p>
-<h2 class="heading">Exams for Government Jobs</h2>
-<p>Sarkari or Government exams are conducted for various positions in the state as well as central Government. There are various groups in <a href="https://www.sarkariresult.com/latestjob.php">Government jobs</a> and candidates can apply for either of these groups, depending on their e the highest level of jobs. Group B is for Gazetted officers. To clear the Group B exam, one has to make the UPSC exam. Most seats under Group B are filled via promotions, so only limited seats are left for entrance via exam. Group C and D are for public servants who have non-supervisory roles.</p>
-<h1 class="heading">Sarkari Results</h1>
-<p>All information about Sarkari result and <a href="https://www.sarkariresult.com/result.php">Rojgar results</a> can be found on sarkariresult.com. It is now easy to log into sarkariresult.com and find out everything that you would want to know about most of the Government exams.</p>
-<h2 class="heading">State Level Exams</h2>
-<p>State Governments conduct various exams, and the Sarkari Result Info for all these exams can be found online. Sarkari Results in Bihar for all governmentsult is one of the most common online searches in India, considering the high demand for Government jobs in the state of U.P.</p>
 <h2 class="heading">Get Access to Detailed Information </h2>
 <p>Sarkariresult.com is a one-stop destination for all queries on Sarkari results. It has a list of all the Government exams, which can be seen as links. If one clicks on these exam names or links, the website provides exhaustive information on that specific exam. This includes the timeline when the exam is conducted, <a href="https://www.sarkariresult.com/admitcard.php">admit card</a> information, the number of seats offered, application forms, Sarkari result dates etc. </p>
 <h2 class="heading">Online Application Process</h2>
