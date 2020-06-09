@@ -318,6 +318,8 @@ display: none;
 <script type="text/javascript">
      (adsbygoogle = window.adsbygoogle ||  []).push({});
 </script>
+ <div class="row text-center mx-auto">
+    <div class="col-sm-12 col-xs-12 col-md-12 col-lg-12 ml-4 mr-4 mb-4 mt-4"> 
 <div class="content_area">
 <div class="container">
 <h2 class="heading">Get Access to Detailed Information </h2>
