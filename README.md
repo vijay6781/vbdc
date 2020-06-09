@@ -32,7 +32,7 @@ display: none;
 }
 
 </style>
-
+<h3><a href="latestjob.html">latest job</a></h3>
 <body data-spy="scroll"  data-offset="50">
   
 <div id="demo" class="carousel slide" data-ride="carousel">
