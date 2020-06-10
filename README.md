@@ -32,7 +32,9 @@ display: none;
 }
 
 </style>
-<h3><a href="latestjob.html">latest job</a></h3>
+<div class="text-center bg-success">
+<h3><a href="https://www.facebook.com/Okay-Result-109287330820751/">Join me on Facebook</a></h3>
+ </div>
 <body data-spy="scroll"  data-offset="50">
   
 
@@ -55,8 +57,6 @@ display: none;
   
     <tr>
  <td> <a href="amin20.html">Bihar LRC (BCECE) Amin correction Of Application Form 2020 </a><span style="color:red">New</span></td>
- 
-  
 </tr>
   <tr>
  <td> <a href="sebi20.html">SEBI Assistant Manager Online Form 2020 </a><span style="color:red">Extended</span></td>
