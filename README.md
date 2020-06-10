@@ -32,7 +32,7 @@ display: none;
 }
 
 </style>
-<div class="text-center bg-success">
+<div class="text-center bg-success ml-5 mr-5">
 <h3><a href="https://www.facebook.com/Okay-Result-109287330820751/">Join me on Facebook</a></h3>
  </div>
 <body data-spy="scroll"  data-offset="50">
