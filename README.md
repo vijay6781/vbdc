@@ -294,6 +294,7 @@ footer {
 </script>
 
  <div class="row text-center">
+  <div class="text-center ml-5 mr-5 mb-2 mt-4"><h3><a href="https://www.facebook.com/Okay-Result-109287330820751/">Join me on Facebook</a></h3></div>
     <div class="col-sm-12 col-xs-12 col-md-12 col-lg-12 mb-4 mt-4"> 
 <div class="content_area">
 <div class="container ">
