@@ -130,10 +130,11 @@ footer {
       
 </tr>
 <tbody class="tbody" >
-  
-     <tr>
+ 
+  <tr>
  <td> <a href="upsciss.html">UPSC ISS Online Form 2020 </a><span style="color:red">New</span></td> 
 </tr>
+  
     <tr>
  <td> <a href="bpscmineral20.html">BPSC Mineral Development Officer MDO Online Form 2020 </a><span style="color:red">New</span></td> 
 </tr>
@@ -297,8 +298,8 @@ footer {
 </script>
 
  <div class="row text-center">
-  <div class="text-center ml-5 mr-5 mb-2 mt-4"><h3><a href="https://www.facebook.com/Okay-Result-109287330820751/">Join me on Facebook</a></h3></div>
-    <div class="col-sm-12 col-xs-12 col-md-12 col-lg-12 mb-4 mt-4"> 
+    <div class="col-sm-12 col-xs-12 col-md-12 col-lg-12 mb-4 mt-4">
+      <div class="text-center ml-5 mr-5 mb-1 mt-4"><h3><span class="badge badge-primary  mr-1" style="background:rgb(255, 255, 51)"><a href="https://www.facebook.com/Okay-Result-109287330820751/">Join me on Facebook</a></span></h3></div>
 <div class="content_area">
 <div class="container ">
  <div class="border border-danger ml-3 mr-3 mt-4"><h2 style="background:rgba(255, 0, 102,0.8)"><a href="https://okayresult.com/"> <sapn style="color:rgb(255,255,255)">Okay Result</sapn></a></h2>
