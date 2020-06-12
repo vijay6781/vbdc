@@ -56,6 +56,9 @@ footer {
         <a class="nav-link" href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar Corona News</a>
       </li>
        <li class="nav-item">
+        <a class="nav-link" href="http://www.nitrr.ac.in/">NITRR</a>
+      </li>
+       <li class="nav-item">
         <a class="nav-link" href="photos.html">My Gallery</a>
       </li>
        <li class="nav-item">               
@@ -83,6 +86,17 @@ footer {
       
 </tr>
 <tbody class="tbody" >
+   <tr>
+ <td><a href="bsf2020.html">BSF Constable Result 2020</a>      <span style="color:red">New</span> </td>
+ 
+  
+</tr>
+   <tr>
+ <td><a href="https://drive.google.com/file/d/1n0RssS53x_XQBJK7pPcQgEuVNP-0nFFz/view">UP Postal Circle Gramin Dak Sevak Result 2020</a>      <span style="color:red">New</span> </td>
+ 
+  
+</tr>
+  
    <tr>
  <td><a href="biharpolice.html"> Bihar Constable Result 2020</a></td>
  
@@ -279,13 +293,16 @@ footer {
 <tbody class="tbody" >
 <tr>
  <td><a href="https://vijayrampeesa.files.wordpress.com/2016/07/computer-system-architecture-morris-mano-third-edition.pdf"> Computer System Architecture-morris mano</a></td>
- 
   
 </tr>
 
 <tr> 
  <td><a href="https://drive.google.com/file/d/180HeUYxeNXV3aH80WYrJn8peHetGCMzG/view?usp=drivesdk">C++ Book Download</a></td>
  
+</tr>
+<tr>
+ <td><a href="https://drive.google.com/file/d/107NaCd45SMfJ-bzTbfaScPTfoAelNV3U/view"> Data Structure and Algorithm  C++ </a></td>
+  
 </tr>
 </tbody>
 </table >
@@ -309,7 +326,7 @@ footer {
 </div> 
       </div>
   
-  
+  <script data-ad-client="ca-pub-7863323163812436" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   <div class="text-center mt-2">
   <h5><span style="text-align:center;color:blue">contact us: vjhelpcare@gmail.com</span></h5>
   <h4><span style="text-align:center;color:rgb(20,200,20)">Thank You..</span></h4>
