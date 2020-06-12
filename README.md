@@ -67,13 +67,13 @@ footer {
     </ul>
   </div>  
 </nav>
-< div class="container">
-  <div class="text-center mt-1">
+
+
+  <div class="text-center ">
   
   <h2>
 <span class="badge badge-primary  mr-1" style="background:rgb(255, 255, 51)" ><a href="photos.html">Latest Job</a></span><span class="badge" style="background:rgb(26,255,255)"><a href="https://www.worldometers.info/coronavirus/country/india/"><span style="color:rgb(255, 0, 102)">Result</span></a></span><span class="badge  mr-1" style="background:rgb(255, 0, 102)"><a href="https://vijay6781.github.io/Lifelong/"><span style="color:rgb(26, 255, 255)">Tech Job</span></a></span>
 </h2>
-</div>
 </div>
 
 <div class="text-center mt-2">
