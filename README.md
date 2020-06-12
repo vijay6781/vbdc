@@ -68,6 +68,21 @@ footer {
   </div>  
 </nav>
 
+<div class="container mt-2">
+ <div class="text-center display-5">
+ <div class="row border justify-content border-white ml-5 ">
+   
+   <div class="col-sm-3 bg-success ml-5">
+         gllkfdlhs</div>
+<div class="col-sm-3 bg-success ml-2">
+         gllkfdly</div>
+     <div class="col-sm-3 bg-success ml-2">
+      gllkfdlky</div>
+     
+   </div>
+   </div>
+  </div>
+
 <div class="text-center mt-2">
   
     <h3>
