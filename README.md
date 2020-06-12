@@ -72,12 +72,12 @@ footer {
  <div class="text-center display-5">
  <div class="row border justify-content border-white ml-5 ">
    
-   <div class="col-sm-3 bg-success ml-5">
-         gllkfdlhs</div>
+   <div class="col-sm-3  ml-5" style="background:rgb(50,255,60)">
+         BSF Constable Result 2020 </div>
 <div class="col-sm-3 bg-success ml-2">
-         gllkfdly</div>
+         BSF Constable Result 2020 </div>
      <div class="col-sm-3 bg-success ml-2">
-      gllkfdlky</div>
+      BSF Constable Result 2020 </div>
      
    </div>
    </div>
