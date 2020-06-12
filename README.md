@@ -86,7 +86,7 @@ footer {
   <div class="text-center mt-2">
   
   <h2>
-<span class="badge badge-primary  mr-1" style="background:rgb(255, 255, 51)" ><a href="photos.html">Gallery</a></span><span class="badge" style="background:rgb(26,255,255)"><a href="https://www.worldometers.info/coronavirus/country/india/"><span style="color:rgb(255, 0, 102)">India Corona</span></a></span><span class="badge  mr-1" style="background:rgb(255, 0, 102)"><a href="https://vijay6781.github.io/Lifelong/"><span style="color:rgb(26, 255, 255)">Book Help</span></a></span>
+<span class="badge badge-primary  mr-1" style="background:rgb(255, 255, 51)" ><a href="photos.html">Latest Job</a></span><span class="badge" style="background:rgb(26,255,255)"><a href="https://www.worldometers.info/coronavirus/country/india/"><span style="color:rgb(255, 0, 102)">Result</span></a></span><span class="badge  mr-1" style="background:rgb(255, 0, 102)"><a href="https://vijay6781.github.io/Lifelong/"><span style="color:rgb(26, 255, 255)">Tech Job</span></a></span>
 </h2>
 </div>
 
