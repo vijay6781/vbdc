@@ -72,12 +72,12 @@ footer {
  <div class="text-center display-5">
  <div class="row border justify-content border-white ml-5 ">
    
-   <div class="col-sm-3  ml-5" style="background:rgb(50,255,60)">
-         BSF Constable Result 2020 </div>
-<div class="col-sm-3 bg-success ml-2">
-         BSF Constable Result 2020 </div>
-     <div class="col-sm-3 bg-success ml-2">
-      BSF Constable Result 2020 </div>
+   <div class="col-sm-3  ml-5" style="background:rgb(255, 255, 51)">
+         <a href="bsf2020.html">BSF Constable Result 2020</a>  </div>
+<div class="col-sm-3  ml-2" style="background:rgb(26,255,255)">
+        <a href="biharpolice.html"> Bihar Constable Result 2020</a></div>
+     <div class="col-sm-3  ml-2" style="background:rgb(255, 0, 102)">
+      <a href="upsciss.html">UPSC ISS Online Form 2020 </a></div>
      
    </div>
    </div>
