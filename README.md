@@ -67,32 +67,18 @@ footer {
     </ul>
   </div>  
 </nav>
-
-<div class="container mt-2">
- <div class="text-center display-5">
- <div class="row border justify-content border-white ml-5 ">
-   
-   <div class="col-sm-3 col-md-3  col-lg-3 ml-5" style="background:rgb(255, 255, 51)">
-         <a href="bsf2020.html">Latest Job</a>  </div>
-<div class="col-sm-3 col-md-3 col-lg-3   ml-2" style="background:rgb(26,255,255)">
-        <a href="biharpolice.html"> Result</a></div>
-     <div class="col-sm-3 col-md-3 col-lg-3 ml-2" style="background:rgb(255, 0, 102)">
-      <a href="upsciss.html">Tech Job</a></div>
-     
-   </div>
-   </div>
-  </div>
-  
-  <div class="text-center mt-2">
+< div class="container">
+  <div class="text-center mt-1">
   
   <h2>
 <span class="badge badge-primary  mr-1" style="background:rgb(255, 255, 51)" ><a href="photos.html">Latest Job</a></span><span class="badge" style="background:rgb(26,255,255)"><a href="https://www.worldometers.info/coronavirus/country/india/"><span style="color:rgb(255, 0, 102)">Result</span></a></span><span class="badge  mr-1" style="background:rgb(255, 0, 102)"><a href="https://vijay6781.github.io/Lifelong/"><span style="color:rgb(26, 255, 255)">Tech Job</span></a></span>
 </h2>
 </div>
+</div>
 
 <div class="text-center mt-2">
   
-    <h3>
+   <h3>
 <span class="badge badge-primary  mr-1" style="background:rgb(255, 255, 51)" ><a href="photos.html">Gallery</a></span><span class="badge" style="background:rgb(26,255,255)"><a href="https://www.worldometers.info/coronavirus/country/india/"><span style="color:rgb(255, 0, 102)">India Corona</span></a></span><span class="badge  mr-1" style="background:rgb(255, 0, 102)"><a href="https://vijay6781.github.io/Lifelong/"><span style="color:rgb(26, 255, 255)">Book Help</span></a></span></h3>
   </div>
   
