@@ -2,9 +2,9 @@
 <head>
 <html lang="en">
 <head>
-  <title>okayresult.com, Okay Result, Ok Result, okayresult,okay Result, Sarkari Result 2020</title>
+  <title>okayresult.com, Okay Result, Ok Result, okayresult,okay Result,ओके रिजल्ट , Sarkari Result 2020</title>
   <meta charset="utf-8">
-  <meta name="description" content="Okay result, Okay Results, OkResult,okayresult, Sarkari Results, सरकारी रिजल्ट्स - OkayResult.com provides latest official Sarkari Result, Online Forms, Sarkari Naukri Jobs in various sectors such as Railway, Bank, SSC, Army, Navy, Police, UPPSC, BPSC,UPSSSC & other sarkari job.">
+  <meta name="description" content="Okay result, Okay Results,okresult,okayresult, Sarkari Results, ओके रिजल्ट, सरकारी रिजल्ट्स - OkayResult.com provides latest official Sarkari Result, Online Forms, Sarkari Naukri Jobs in various sectors such as Railway, Bank, SSC, Army, Navy, Police, UPPSC, BPSC,UPSSSC & other sarkari job.">
   <meta name="keywords" content="Okay Result,OkayResUlt, OKResult, okayresult, Sarkariresult, Sarkari, Sarkariresults">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
@@ -29,7 +29,13 @@ footer {
   min-height:40px;
   overflow-y:scroll;
 }
- 
+#vks .nav-link:hover
+{
+color:rgb(255, 26, 140);
+background:rgb(0, 255, 255);
+ font-weight:130;
+ font-size:1.5rem;
+} 
 </style>
 
 <body data-spy="scroll"  data-offset="50">
@@ -39,7 +45,7 @@ footer {
 </div>
   
   
-  <nav class="navbar navbar-expand-md navbar-dark mt-3" style="background:rgb(77, 77, 255)">
+  <nav id="vks" class="navbar navbar-expand-md navbar-dark mt-3" style="background:rgb(77, 77, 255)">
   <a class="navbar-brand" href="#">Home</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
@@ -68,18 +74,10 @@ footer {
   </div>  
 </nav>
 
-
-  <div class="text-center ">
+<div class="text-center mt-2">
   
-  <h2>
-<span class="badge badge-primary  mr-1" style="background:rgb(255, 255, 51)" ><a href="photos.html">Latest Job</a></span><span class="badge" style="background:rgb(26,255,255)"><a href="https://www.worldometers.info/coronavirus/country/india/"><span style="color:rgb(255, 0, 102)">Result</span></a></span><span class="badge  mr-1" style="background:rgb(255, 0, 102)"><a href="https://vijay6781.github.io/Lifelong/"><span style="color:rgb(26, 255, 255)">Tech Job</span></a></span>
-</h2>
-</div>
-
-<div class="text-center mt-2 mb-1">
-  
-   <h3>
-<span class="badge badge-primary  mr-1" style="background:rgb(255, 255, 51)" ><a href="photos.html">Gallery</a></span><span class="badge" style="background:rgb(26,255,255)"><a href="https://www.worldometers.info/coronavirus/country/india/"><span style="color:rgb(255, 0, 102)">India Corona</span></a></span><span class="badge  mr-1" style="background:rgb(255, 0, 102)"><a href="https://vijay6781.github.io/Lifelong/"><span style="color:rgb(26, 255, 255)">Book Help</span></a></span></h3>
+    <h3>
+<span class="badge badge-primary mr-1 " style="background:rgb(255, 255, 51)" ><a href="photos.html">Gallery</a></span><span class="badge mr-1" style="background:rgb(26,255,255)"><a href="https://www.worldometers.info/coronavirus/country/india/"><span style="color:rgb(255, 0, 102)">India Corona</span></a></span><span class="badge " style="background:rgb(255, 0, 102)"><a href="https://vijay6781.github.io/Lifelong/"><span style="color:rgb(26, 255, 255)">Book Help</span></a></span></h3>
   </div>
   
   
@@ -95,9 +93,7 @@ footer {
 </tr>
 <tbody class="tbody" >
    <tr>
- <td><a href="bsf2020.html">BSF Constable Result 2020</a>      <span style="color:red">New</span> </td>
- 
-  
+ <td><a href="bsf2020.html">BSF Constable Result 2020</a> <span style="color:red">New</span> </td> 
 </tr>
    <tr>
  <td><a href="https://drive.google.com/file/d/1n0RssS53x_XQBJK7pPcQgEuVNP-0nFFz/view">UP Postal Circle Gramin Dak Sevak Result 2020</a>      <span style="color:red">New</span> </td>
@@ -157,7 +153,7 @@ footer {
  <td> <a href="upsciss.html">UPSC ISS Online Form 2020 </a><span style="color:red">New</span></td> 
 </tr>
   
-    <tr>
+   <tr>
  <td> <a href="bpscmineral20.html">BPSC Mineral Development Officer MDO Online Form 2020 </a><span style="color:red">New</span></td> 
 </tr>
   
@@ -200,7 +196,7 @@ footer {
      <table >
   
 <tr>
-  <th scope="col" style="background:#55ff00">Bihar/up Job</th>     
+  <th scope="col" style="background:#55ff00"> Statewise Job</th>     
 </tr>
 <tbody class="tbody" >
       <tr>
