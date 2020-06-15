@@ -68,7 +68,7 @@ table {
         <a class="nav-link" href="http://www.nitrr.ac.in/">NITRR</a>
       </li>
        <li class="nav-item">
-        <a class="nav-link" href="photos.html">My Gallery</a>
+        <a class="nav-link" href="photos.html">Gallery</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="okaymeme.html">Okay Meme</a>
