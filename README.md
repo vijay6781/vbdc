@@ -36,6 +36,10 @@ background:rgb(0, 255, 255);
  font-weight:130;
  font-size:1.5rem;
 } 
+table {
+  border-style: solid;
+  border-color: #55ff00;
+}
 </style>
 
 <body data-spy="scroll"  data-offset="50">
