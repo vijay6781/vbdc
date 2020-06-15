@@ -70,6 +70,9 @@ table {
        <li class="nav-item">
         <a class="nav-link" href="photos.html">My Gallery</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="okaymeme.html">Okay Meme</a>
+      </li>
        <li class="nav-item">               
        <a class="nav-link" href="okay result calculator.html">Calculator</a>
       </li>
