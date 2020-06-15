@@ -82,7 +82,7 @@ background:rgb(0, 255, 255);
   
   
 <div class="container-fluid table-hover  table-striped">
-  <div class="row text-center mx-auto">
+  <div class="row text-center mx-2">
      <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-3 mt-3">
      <table >
   
