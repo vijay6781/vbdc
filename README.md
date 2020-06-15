@@ -45,7 +45,7 @@ background:rgb(0, 255, 255);
 </div>
   
   
-  <nav id="vks" class="navbar navbar-expand-md navbar-dark mt-3" style="background:#0e6dea">
+  <nav id="vks" class="navbar navbar-expand-md navbar-dark mt-3" style="background:rgb(77, 77, 255)">
   <a class="navbar-brand" href="#">Home</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
@@ -76,16 +76,16 @@ background:rgb(0, 255, 255);
 
 <div class="text-center mt-2">
   
- <h3>
+    <h3>
 <span class="badge badge-primary mr-1 " style="background:rgb(255, 255, 51)" ><a href="photos.html">Gallery</a></span><span class="badge mr-1" style="background:rgb(26,255,255)"><a href="https://www.worldometers.info/coronavirus/country/india/"><span style="color:rgb(255, 0, 102)">India Corona</span></a></span><span class="badge " style="background:rgb(255, 0, 102)"><a href="https://vijay6781.github.io/Lifelong/"><span style="color:rgb(26, 255, 255)">Book Help</span></a></span></h3>
   </div>
   
   
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center mx-auto">
-     <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-1 mt-3 ">
-       <div class="border border-danger">
-     <table >
+     <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
+    <div class="border"style="border:#55ff00">
+  <table >
   
 <tr>
   <th scope="col" style="background:#55ff00">Result</th>
@@ -93,12 +93,18 @@ background:rgb(0, 255, 255);
       
 </tr>
 <tbody class="tbody" >
+     <tr>
+ <td><a href="cgpcs.html">CGPSC Pre Result 2020</a> <span style="color:red">New</span> </td> 
+</tr>
    <tr>
  <td><a href="bsf2020.html">BSF Constable Result 2020</a> <span style="color:red">New</span> </td> 
 </tr>
    <tr>
  <td><a href="https://drive.google.com/file/d/1n0RssS53x_XQBJK7pPcQgEuVNP-0nFFz/view">UP Postal Circle Gramin Dak Sevak Result 2020</a>      <span style="color:red">New</span> </td>
+ 
+  
 </tr>
+  
    <tr>
  <td><a href="biharpolice.html"> Bihar Constable Result 2020</a></td>
  
@@ -139,7 +145,8 @@ background:rgb(0, 255, 255);
     </div>
     
     
-   <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-1 mt-3">     
+   <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-2 mt-3">     
+  <div class="border"style="border:#55ff00">
   <table >
 <tr>
   <th scope="col" style="background:#55ff00">Latest Job</th>
@@ -190,8 +197,10 @@ background:rgb(0, 255, 255);
 
 </tbody>
 </table>
+</div>
     </div>
-    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-1 mt-3">
+    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-2 mt-3">
+  <div class="border"style="border:#55ff00">
      <table >
   
 <tr>
@@ -220,7 +229,9 @@ background:rgb(0, 255, 255);
 </tbody>
 </table >
     </div>
-   <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-1 mt-3">
+    </div>
+   <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
+  <div class="border"style="border:#55ff00">
      <table >
   
 <tr>
@@ -241,20 +252,15 @@ background:rgb(0, 255, 255);
 
 </tr>
 
-<tr>
-  
- <td>  CBSE 10th Result</td>
- 
- 
-</tr>
 
 </tbody>
 
 </table >
-
+</div>
  </div>
  
-   <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-1 mt-3">
+   <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
+  <div class="border"style="border:#55ff00">
      <table >
   
 <tr>
@@ -263,6 +269,15 @@ background:rgb(0, 255, 255);
       
 </tr>
 <tbody class="tbody" >
+  <tr>
+ <td><a href="fcidvtest.html">FCI Various Post DV Test Admit Card 2020</a> <span style="color:red">New</span> </td> 
+</tr>
+  
+  
+   <tr>
+ <td><a href="Biharhomeguard.html">Bihar Home Guard Driver PET Admit Card 2020</a> <span style="color:red">New</span> </td> 
+</tr>
+  
 <tr>
   <td><a href="sscchsl.html">SSC CHSL Left Over Paper Exam Date 2020</a></td>
  
@@ -277,15 +292,17 @@ background:rgb(0, 255, 255);
 
 <tr>
   
- <td> <a href="https://upsc.gov.in/sites/default/files/UPSC_Pres_Release.pdf">UPSC IAS / IFS prelims Exam Date 2020 Notification new date 4 oct2 020</a></td>
+ <td> <a href="https://upsc.gov.in/sites/default/files/UPSC_Pres_Release.pdf">UPSC IAS / IFS prelims Exam Date 2020 Notification new date 4 oct 2020</a></td>
  
  
 </tr>
 
 </tbody>
 </table >
+</div>
     </div>
-   <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-1 mt-3">
+   <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
+  <div class="border"style="border:#55ff00">
      <table >
   
 <tr>
@@ -313,6 +330,7 @@ background:rgb(0, 255, 255);
 </tr>
 </tbody>
 </table >
+</div>
     </div>
   </div>
 </div>
