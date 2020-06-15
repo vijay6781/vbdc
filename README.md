@@ -74,7 +74,7 @@ table {
         <a class="nav-link" href="okaymeme.html">Okay Meme</a>
       </li>
        <li class="nav-item">               
-       <a class="nav-link" href="okay result calculator.html">Calculator</a>
+       <a class="nav-link" href="okay result calculator.html">Calc</a>
       </li>
     </ul>
   </div>  
