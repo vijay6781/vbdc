@@ -76,7 +76,7 @@ background:rgb(0, 255, 255);
 
 <div class="text-center mt-2">
   
-    <h3>
+ <h3>
 <span class="badge badge-primary mr-1 " style="background:rgb(255, 255, 51)" ><a href="photos.html">Gallery</a></span><span class="badge mr-1" style="background:rgb(26,255,255)"><a href="https://www.worldometers.info/coronavirus/country/india/"><span style="color:rgb(255, 0, 102)">India Corona</span></a></span><span class="badge " style="background:rgb(255, 0, 102)"><a href="https://vijay6781.github.io/Lifelong/"><span style="color:rgb(26, 255, 255)">Book Help</span></a></span></h3>
   </div>
   
@@ -97,10 +97,7 @@ background:rgb(0, 255, 255);
 </tr>
    <tr>
  <td><a href="https://drive.google.com/file/d/1n0RssS53x_XQBJK7pPcQgEuVNP-0nFFz/view">UP Postal Circle Gramin Dak Sevak Result 2020</a>      <span style="color:red">New</span> </td>
- 
-  
 </tr>
-  
    <tr>
  <td><a href="biharpolice.html"> Bihar Constable Result 2020</a></td>
  
