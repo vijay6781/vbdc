@@ -83,7 +83,8 @@ background:rgb(0, 255, 255);
   
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center mx-auto">
-     <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-1 mt-3 border border-danger">
+     <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-1 mt-3 ">
+       <div class="border border-danger">
      <table >
   
 <tr>
@@ -134,6 +135,7 @@ background:rgb(0, 255, 255);
 
 </tbody>
 </table >
+</div>
     </div>
     
     
