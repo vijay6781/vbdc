@@ -68,13 +68,10 @@ table {
         <a class="nav-link" href="http://www.nitrr.ac.in/">NITRR</a>
       </li>
        <li class="nav-item">
-        <a class="nav-link" href="photos.html">Gallery</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="okaymeme.html">Okay Meme</a>
+        <a class="nav-link" href="photos.html">My Gallery</a>
       </li>
        <li class="nav-item">               
-       <a class="nav-link" href="okay result calculator.html">Calc</a>
+       <a class="nav-link" href="okay result calculator.html">Calculator</a>
       </li>
     </ul>
   </div>  
@@ -83,7 +80,7 @@ table {
 <div class="text-center mt-2">
   
     <h3>
-<span class="badge badge-primary mr-1 " style="background:rgb(255, 255, 51)" ><a href="photos.html">Gallery</a></span><span class="badge mr-1" style="background:rgb(26,255,255)"><a href="https://www.worldometers.info/coronavirus/country/india/"><span style="color:rgb(255, 0, 102)">India Corona</span></a></span><span class="badge " style="background:rgb(255, 0, 102)"><a href="https://vijay6781.github.io/Lifelong/"><span style="color:rgb(26, 255, 255)">Book Help</span></a></span></h3>
+<span class="badge badge-primary mr-1 " style="background:rgb(255, 255, 51)" ><a href="photos.html">Gallery</a></span><span class="badge mr-1" style="background:rgb(26,255,255)"><a href="https://www.worldometers.info/coronavirus/country/india/"><span style="color:rgb(255, 0, 102)">India Corona</span></a></span><span class="badge " style="background:rgb(255, 0, 102)"><a href="https://vijay6781.github.io/Lifelong/"><span style="color:rgb(26, 255, 255)">Book</span></a></span></h3>
   </div>
   
   
@@ -160,17 +157,21 @@ table {
       
 </tr>
 <tbody class="tbody" >
+  
+  <tr>
+ <td> <a href="https://okayresult.com/AFCAT.html">AFCAT 02/2020 Online Form </a><span style="color:rgb(255, 0, 102)">New</span></td> 
+</tr>
  
   <tr>
- <td> <a href="upsciss.html">UPSC ISS Online Form 2020 </a><span style="color:red">New</span></td> 
+ <td> <a href="upsciss.html">UPSC ISS Online Form 2020 </a><span style="color:rgb(255, 0, 102)">New</span></td> 
 </tr>
   
    <tr>
- <td> <a href="bpscmineral20.html">BPSC Mineral Development Officer MDO Online Form 2020 </a><span style="color:red">New</span></td> 
+ <td> <a href="bpscmineral20.html">BPSC Mineral Development Officer MDO Online Form 2020 </a><span style="color:rgb(255, 0, 102)">New</span></td> 
 </tr>
   
     <tr>
- <td> <a href="amin20.html">Bihar LRC (BCECE) Amin correction Of Application Form 2020 </a><span style="color:red">New</span></td>
+ <td> <a href="amin20.html">Bihar LRC (BCECE) Amin correction Of Application Form 2020 </a><span style="color:rgb(255, 0, 102)">New</span></td>
  
   
 </tr>
@@ -210,7 +211,7 @@ table {
      <table >
   
 <tr>
-  <th scope="col" style="background:#55ff00"> Statewise Job</th>     
+  <th scope="col" style="background:#55ff00">Bihar/UP Job</th>     
 </tr>
 <tbody class="tbody" >
       <tr>
@@ -350,7 +351,7 @@ table {
       <div class="text-center ml-5 mr-5 mb-1 mt-4"><h3><span class="badge badge-primary  mr-1" style="background:rgb(255, 255, 51)"><a href="https://www.facebook.com/Okay-Result-109287330820751/">Join me on Facebook</a></span></h3></div>
 <div class="content_area">
 <div class="container ">
- <div class="border border-danger ml-2 mr-2 mt-4"><h2 style="background:rgba(255, 0, 102,0.8)"><a href="https://okayresult.com/"> <sapn style="color:rgb(255,255,255)">Okay Result</sapn></a></h2>
+ <div class="border border-danger ml-3 mr-2 mt-4"><h2 style="background:rgba(255, 0, 102,0.8)"><a href="https://okayresult.com/"> <sapn style="color:rgb(255,255,255)">Okay Result</sapn></a></h2>
 <p>Okay Result provide all of you latest Job Information. As we know that sometimes we miss opportunity due to lack of information about coming latest Job. Okay Result provide you lastest Sarkari job as well as sarkari result. <br></p>
    <h3><a href="https://okayresult.com/"><span style="color:red">www.okayresult.com</span></a></h3>
     </div>     
@@ -359,7 +360,9 @@ table {
   
   <script data-ad-client="ca-pub-7863323163812436" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   <div class="text-center mt-2">
-  <h5><span style="text-align:center;color:blue">contact us: vjhelpcare@gmail.com</span></h5>
+  <h5><span style="text-align:center;color:blue">contact us:<svg class="bi bi-envelope-fill" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
+</svg> vjhelpcare@gmail.com</span></h5>
   <h4><span style="text-align:center;color:rgb(20,200,20)">Thank You..</span></h4>
   </div>
    </div>
