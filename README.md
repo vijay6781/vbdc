@@ -38,8 +38,7 @@ background:rgb(0, 255, 255);
  font-size:1.5rem;
 } 
 .border{
- border-style: ridge;
-  border-color: #55ff00;
+ border: thin double #32a1ce;
 }
 </style>
 
