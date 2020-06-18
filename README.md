@@ -89,7 +89,7 @@ background:rgb(0, 255, 255);
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center mx-auto">
      <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
-    <div class="border" >
+    <div class="border"style="border: thin double #32a1ce;" >
   <table >
   
 <tr>
