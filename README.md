@@ -36,7 +36,8 @@ background:rgb(0, 255, 255);
  font-weight:130;
  font-size:1.5rem;
 } 
-table {
+.border{
+ border-style: ridge;
   border-color: #55ff00;
 }
 </style>
@@ -87,7 +88,7 @@ table {
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center mx-auto">
      <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
-    <div class="border border-danger" >
+    <div class="border" >
   <table >
   
 <tr>
