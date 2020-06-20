@@ -57,7 +57,7 @@ table {
 <body data-spy="scroll"  data-offset="50">
       <div class="container text-center">                             
   <div class="spinner-grow text-danger pt-0 mt-0 "></div>
-   <div class="spinner-grow text-white"><span style="color:red;text-align:center">Live</span></div>
+   <div class="spinner-grow text-white"><span style="color:red;text-align:center; font-size:10px">Live</span></div>
 </div>
   
   
@@ -72,10 +72,10 @@ table {
        <a class="nav-link" href="okay result latestjob.html">Latest Jobs</a>
       </li>
       <li class="nav-item">               
-       <a class="nav-link" href="https://www.worldometers.info/coronavirus/country/india/">India Corona Case</a>
+       <a class="nav-link" href="https://www.worldometers.info/coronavirus/country/india/">India Corona </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar Corona News</a>
+        <a class="nav-link" href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar corona News</a>
       </li>
        <li class="nav-item">
         <a class="nav-link" href="http://www.nitrr.ac.in/">NITRR</a>
