@@ -100,7 +100,7 @@ table {
 }
 	
 .floating-btn {
-	right: 10px;
+	left: 15px;
 }
 }
 </style>
@@ -112,7 +112,7 @@ table {
 </div>
   
   
-  <nav id="vks" class="navbar navbar-expand-md navbar-dark mt-3" style="background:rgb(77, 77, 255)">
+  <nav id="vks" class="navbar navbar-expand-md navbar-dark mt-3" style="background:rgb(77, 77, 255);position:fixed">
   <a class="navbar-brand" href="#">Home</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
