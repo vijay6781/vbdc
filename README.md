@@ -17,7 +17,7 @@
 <style type="text/css">
   body {
 
-    font-family: 'Roboto', sans-serif;  position: relative; 
+   font-family: 'Roboto', sans-serif;  position: relative; 
   }
     @import "{{ site.theme }}";
 
@@ -50,7 +50,7 @@ table {
   background-color:#e8491d;
   text-align:center;
 }
-     @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+   
 
 </style>
 
