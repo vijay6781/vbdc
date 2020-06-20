@@ -69,9 +69,40 @@ table {
 	color: #FF7500;
 	text-decoration: none;
 }
+.floating-btn {
+	border-radius: 26.5px;
+	background-color: #001F61;
+	border: 1px solid #001F61;
+	box-shadow: 0 16px 22px -17px #03153B;
+	color: #fff;
+	cursor: pointer;
+	font-size: 16px;
+	line-height: 20px;
+	padding: 12px 20px;
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	z-index: 999;
+}
 
-   
+.floating-btn:hover {
+	background-color: #ffffff;
+	color: #001F61;
+}
 
+.floating-btn:focus {
+	outline: none;
+}
+@media screen and (max-width: 480px) {
+
+.social-panel-container.visible {
+		transform: translateX(0px);
+}
+	
+.floating-btn {
+	right: 10px;
+}
+}
 </style>
 
 <body data-spy="scroll"  data-offset="50">
@@ -433,8 +464,11 @@ table {
  </div>
  </div>
  </div>
+ <button class="floating-btn">
+	Facebook
+</button>
  <div class="floating-text">
-	always type<a href="https://okayresult.com/" target="_blank">www.okayresult.com</a>
+	type:<a href="https://okayresult.com/" target="_blank"> www.okayresult.com</a>
 </div>
  
 </body>
