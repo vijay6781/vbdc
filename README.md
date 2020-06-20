@@ -465,10 +465,10 @@ table {
  </div>
  </div>
  <button class="floating-btn">
-	Facebook
+	Fb
 </button>
  <div class="floating-text">
-	type:<a href="https://okayresult.com/" target="_blank"> www.okayresult.com</a>
+	   Always type:<a href="https://okayresult.com/" target="_blank"> www.okayresult.com</a>
 </div>
  
 </body>
