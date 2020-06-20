@@ -41,6 +41,13 @@ background:rgb(0, 255, 255);
 table {
   border-color: #55ff00;
 }
+.footer{
+  padding: 1.5%;;
+  margin-top: 20px;
+  color:#ffffff;
+  background-color:#e8491d;
+  text-align:center;
+}
 </style>
 
 <body data-spy="scroll"  data-offset="50">
