@@ -57,7 +57,7 @@ table {
 <body data-spy="scroll"  data-offset="50">
       <div class="container text-center">                             
   <div class="spinner-grow text-danger pt-0 mt-0 "></div>
-   <div class="spinner-grow text-white"><span style="color:red;text-align:center; font-size:10px">Live</span></div>
+   <div class="spinner-grow text-white"><span style="color:red;text-align:center; font-size:15px">Live</span></div>
 </div>
   
   
