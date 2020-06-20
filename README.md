@@ -50,6 +50,8 @@ table {
   background-color:#e8491d;
   text-align:center;
 }
+     @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
 </style>
 
 <body data-spy="scroll"  data-offset="50">
