@@ -56,7 +56,7 @@ table {
 	border-radius: 10px 10px 0 0;
 	color: #fff;
 	font-family: 'Muli';
-	padding: 7px 25px;
+	padding: 7px 15px;
 	position: fixed;
 	bottom: 0;
 	left: 50%;
@@ -76,7 +76,7 @@ table {
 	box-shadow: 0 16px 22px -17px #03153B;
 	color: #fff;
 	cursor: pointer;
-	font-size: 16px;
+	font-size: 14px;
 	line-height: 20px;
 	padding: 12px 20px;
 	position: fixed;
@@ -468,7 +468,7 @@ table {
 	<a href="https://www.facebook.com/Okay-Result-109287330820751/"> Join Fb</a>
 </button>
  <div class="floating-text">
-	<a href="https://okayresult.com/" target="_blank"><span style="color:red">type</span> www.okayresult.com</a>
+	<a href="https://okayresult.com/" target="_blank">www.okayresult.com</a>
 </div>
  
 </body>
