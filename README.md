@@ -51,6 +51,25 @@ table {
   background-color:#e8491d;
   text-align:center;
 }
+.floating-text {
+	background-color: #001F61;
+	border-radius: 10px 10px 0 0;
+	color: #fff;
+	font-family: 'Muli';
+	padding: 7px 15px;
+	position: fixed;
+	bottom: 0;
+	left: 50%;
+	transform: translateX(-50%);
+	text-align: center;
+	z-index: 998;
+}
+
+.floating-text a {
+	color: #FF7500;
+	text-decoration: none;
+}
+
    
 
 </style>
@@ -76,7 +95,7 @@ table {
        <a class="nav-link" href="https://www.worldometers.info/coronavirus/country/india/">India Corona </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar corona News</a>
+        <a class="nav-link" href="https://navbharattimes.indiatimes.com/state/bihar/patna/coronavirus-latest-update-inbihar-corona-patient-bihar-district-wise-detail/articleshow/75312015.cms">Bihar Corona</a>
       </li>
        <li class="nav-item">
         <a class="nav-link" href="http://www.nitrr.ac.in/">NITRR</a>
@@ -113,6 +132,9 @@ table {
 </tr>
 <tbody class="tbody" >
    <tr>
+ <td><a href="biharpolice.html"> Bihar Police PET Admit Card</a><span style="color:rgb(255,0,25)"> New</span> </td>  
+</tr>
+   <tr>
  <td><a href="http://uppsc.up.nic.in/View_Notices.aspx?ID=news&N=1480"> Download UPPSC Assistant Registrar Result 2020 </a></td>  
 </tr>
   <tr>
@@ -125,13 +147,13 @@ table {
  <td><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/list_jht2019_16062020.pdf">SSC Junior Hindi Translator 2019 Paper II Result</a></td>  
 </tr>
      <tr>
- <td><a href="cgpcs.html">CGPSC Pre Result 2020</a> <span style="color:red">New</span> </td> 
+ <td><a href="cgpcs.html">CGPSC Pre Result 2020</a>  </td> 
 </tr>
    <tr>
- <td><a href="bsf2020.html">BSF Constable Result 2020</a> <span style="color:red">New</span> </td> 
+ <td><a href="bsf2020.html">BSF Constable Result 2020</a> </td> 
 </tr>
    <tr>
- <td><a href="https://drive.google.com/file/d/1n0RssS53x_XQBJK7pPcQgEuVNP-0nFFz/view">UP Postal Circle Gramin Dak Sevak Result 2020</a>      <span style="color:red">New</span> </td>
+ <td><a href="https://drive.google.com/file/d/1n0RssS53x_XQBJK7pPcQgEuVNP-0nFFz/view">UP Postal Circle Gramin Dak Sevak Result 2020</a>       </td>
  
   
 </tr>
@@ -193,29 +215,29 @@ table {
  <td> <a href="BPSCAE.html">BPSC Assistant Engineer Form 2020 </a><span style="color:rgb(255,0,0)">Extended</span></td>  
 </tr>
   <tr>
- <td> <a href="ntpc2020.html">NTPC Engineering Trainee Online Form 2020</a><span style="color:rgb(255, 0, 102)"> New</span></td> 
+ <td> <a href="ntpc2020.html">NTPC Engineering Trainee Online Form 2020</a></td> 
   </tr>
   <tr>
- <td> <a href="ndaII.html">UPSC NDA II Online Form 2020</a><span style="color:rgb(255, 0, 102)">New</span></td> 
+ <td> <a href="ndaII.html">UPSC NDA II Online Form 2020</a></td> 
 </tr>
   
   <tr>
- <td> <a href="https://okayresult.com/AFCAT.html">AFCAT 02/2020 Online Form </a><span style="color:rgb(255, 0, 102)">New</span></td> 
+ <td> <a href="https://okayresult.com/AFCAT.html">AFCAT 02/2020 Online Form </a></td> 
 </tr>
  
   <tr>
- <td> <a href="upsciss.html">UPSC ISS Online Form 2020 </a><span style="color:rgb(255, 0, 102)">New</span></td> 
+ <td> <a href="upsciss.html">UPSC ISS Online Form 2020 </a></td> 
 </tr>
   
    <tr>
- <td> <a href="bpscmineral20.html">BPSC Mineral Development Officer MDO Online Form 2020 </a><span style="color:rgb(255, 0, 102)">New</span></td> 
+ <td> <a href="bpscmineral20.html">BPSC Mineral Development Officer MDO Online Form 2020 </a></td> 
 </tr>
     <tr>
- <td> <a href="amin20.html">Bihar LRC (BCECE) Amin correction Of Application Form 2020 </a><span style="color:rgb(255, 0, 102)">New</span></td>
+ <td> <a href="amin20.html">Bihar LRC (BCECE) Amin correction Of Application Form 2020 </a></td>
 
 </tr>
   <tr>
- <td> <a href="sebi20.html">SEBI Assistant Manager Online Form 2020 </a><span style="color:red">Extended</span></td>
+ <td> <a href="sebi20.html">SEBI Assistant Manager Online Form 2020 </a></td>
 </tr> 
 
 <tr>
@@ -246,11 +268,11 @@ table {
  <td> <a href="bpscmotor20.html">BPSC Motor Vehicle Inspector MVI Recruitment Online Form 2020 </a><span style="color:rgb(255,0,0)">Extended</span></td>  
 </tr>
       <tr>
- <td> <a href="amin20.html">Bihar LRC (BCECE) Amin correction Of Application Form 2020 </a><span style="color:red">New</span></td>  
+ <td> <a href="amin20.html">Bihar LRC (BCECE) Amin correction Of Application Form 2020 </a></td>  
 </tr>
 
 <tr>
- <td><a href="bcece20.html">BCECE City Manager Recruitment Online Form 2020</a><span style="color:red">Extended</span></td>
+ <td><a href="bcece20.html">BCECE City Manager Recruitment Online Form 2020</a></td>
  
  
 </tr>
@@ -277,7 +299,7 @@ table {
 </tr>
 <tbody class="tbody" >
     <tr>
- <td> <a href="ntpc2020.html">NTPC Engineering Trainee Online Form 2020</a><span style="color:rgb(255, 0, 102)"> New</span></td> 
+ <td> <a href="ntpc2020.html">NTPC Engineering Trainee Online Form 2020</a></td> 
 </tr>
    
 <tr>
@@ -411,5 +433,9 @@ table {
  </div>
  </div>
  </div>
+ <div class="floating-text">
+	always type<a href="https://okayresult.com/" target="_blank">www.okayresult.com</a>
+</div>
+ 
 </body>
 </html>
