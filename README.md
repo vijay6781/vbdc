@@ -80,7 +80,7 @@ table {
 	line-height: 20px;
 	padding: 12px 20px;
 	position: fixed;
-	bottom: 20px;
+	bottom:5px;
 	right: 20px;
 	z-index: 999;
 }
