@@ -56,7 +56,7 @@ table {
 	border-radius: 10px 10px 0 0;
 	color: #fff;
 	font-family: 'Muli';
-	padding: 7px 15px;
+	padding: 7px 25px;
 	position: fixed;
 	bottom: 0;
 	left: 50%;
@@ -80,7 +80,7 @@ table {
 	line-height: 20px;
 	padding: 12px 20px;
 	position: fixed;
-	bottom:5px;
+	bottom:0px;
 	right: 20px;
 	z-index: 999;
 }
@@ -100,7 +100,7 @@ table {
 }
 	
 .floating-btn {
-	right: 16px;
+	right:20px;
 }
 }
 </style>
