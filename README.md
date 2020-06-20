@@ -468,7 +468,7 @@ table {
 	<a href="https://www.facebook.com/Okay-Result-109287330820751/"> Join Fb</a>
 </button>
  <div class="floating-text">
-	<a href="https://okayresult.com/" target="_blank"> type: www.okayresult.com</a>
+	<a href="https://okayresult.com/" target="_blank"> type:www.okayresult.com</a>
 </div>
  
 </body>
