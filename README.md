@@ -41,7 +41,7 @@ background:rgb(0, 255, 255);
 table {
   border-color: #55ff00;
 }
-.footer{
+.footerv{
   padding: 1.5%;;
   margin-top: 20px;
   color:#ffffff;
@@ -406,7 +406,7 @@ table {
    
  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-<div class="footer">
+<div class="footerv">
   <p>Author: Hege Refsnes<br>
   <a href="mailto:hege@example.com">hege@example.com</a></p>
 
