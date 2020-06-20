@@ -44,6 +44,7 @@ table {
 .footerv{
   padding: 1.5%;;
   margin-top: 20px;
+  margin-bottom:5px;
   color:#ffffff;
   background-color:#e8491d;
   text-align:center;
