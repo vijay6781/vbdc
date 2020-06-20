@@ -2,11 +2,12 @@
 <head>
 <html lang="en">
 <head>
-  <title>okayresult.com, Okay Result, Ok Result, okayresult,okay Result,ओके रिजल्ट , Sarkari Result 2020</title>
-  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <title>okayresult.com, Okay Result, Ok Result, okayresult,#Okay Result, #okResult, okay Result,ओके रिजल्ट , Sarkari Result 2020</title>
   <meta charset="utf-8">
   <meta name="description" content="Okay result, Okay Results,okresult,okayresult, Sarkari Results, ओके रिजल्ट, सरकारी रिजल्ट्स - OkayResult.com provides latest official Sarkari Result, Online Forms, Sarkari Naukri Jobs in various sectors such as Railway, Bank, SSC, Army, Navy, Police, UPPSC, BPSC,UPSSSC & other sarkari job.">
   <meta name="keywords" content="Okay Result,OkayResUlt, OKResult, okayresult, Sarkariresult, Sarkari, Sarkariresults">
+  <meta name="rating" content="general">
+  <meta name="distribution" content="global">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -37,8 +38,8 @@ background:rgb(0, 255, 255);
  font-weight:130;
  font-size:1.5rem;
 } 
-.border{
- border: thin double #32a1ce;
+table {
+  border-color: #55ff00;
 }
 </style>
 
@@ -69,17 +70,19 @@ background:rgb(0, 255, 255);
         <a class="nav-link" href="http://www.nitrr.ac.in/">NITRR</a>
       </li>
        <li class="nav-item">
-        <a class="nav-link" href="photos.html">My Gallery</a>
+        <a class="nav-link" href="photos.html">Gallery</a>
       </li>
        <li class="nav-item">               
        <a class="nav-link" href="okay result calculator.html">Calculator</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://okayresult.com/okaymeme.html"></a>
       </li>
     </ul>
   </div>  
 </nav>
 
 <div class="text-center mt-2">
-  
     <h3>
 <span class="badge badge-primary mr-1 " style="background:rgb(255, 255, 51)" ><a href="photos.html">Gallery</a></span><span class="badge mr-1" style="background:rgb(26,255,255)"><a href="https://www.worldometers.info/coronavirus/country/india/"><span style="color:rgb(255, 0, 102)">India Corona</span></a></span><span class="badge " style="background:rgb(255, 0, 102)"><a href="https://vijay6781.github.io/Lifelong/"><span style="color:rgb(26, 255, 255)">Book</span></a></span></h3>
   </div>
@@ -88,7 +91,7 @@ background:rgb(0, 255, 255);
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center mx-auto">
      <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
-   
+    <div class="border border-success">
   <table >
   
 <tr>
@@ -97,6 +100,18 @@ background:rgb(0, 255, 255);
       
 </tr>
 <tbody class="tbody" >
+   <tr>
+ <td><a href="http://uppsc.up.nic.in/View_Notices.aspx?ID=news&N=1480"> Download UPPSC Assistant Registrar Result 2020 </a></td>  
+</tr>
+  <tr>
+ <td><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/list_32candidates_19062020.pdf"> Download SSC Selection Post (Phase-VII) Additional Result 2020 </a></td>  
+</tr>
+   <tr>
+ <td><a href="https://upsc.gov.in/sites/default/files/PublDiscl-IFSM-19-Engl.pdf"> Download UPSC Forest Services (IFS) 2019 Score Card</a></td>  
+</tr>
+    <tr>
+ <td><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/list_jht2019_16062020.pdf">SSC Junior Hindi Translator 2019 Paper II Result</a></td>  
+</tr>
      <tr>
  <td><a href="cgpcs.html">CGPSC Pre Result 2020</a> <span style="color:red">New</span> </td> 
 </tr>
@@ -110,9 +125,7 @@ background:rgb(0, 255, 255);
 </tr>
   
    <tr>
- <td><a href="biharpolice.html"> Bihar Constable Result 2020</a></td>
- 
-  
+ <td><a href="biharpolice.html"> Bihar Constable Result 2020</a></td>  
 </tr>
   <tr>
  <td><a href="http://upbasiceduboard.gov.in/Result.pdf">UP 69000 Assistant Teacher Merit List 2020</a></td>
@@ -147,17 +160,32 @@ background:rgb(0, 255, 255);
 </table >
 </div>
     </div>
-    
-    
+ 
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-2 mt-3">     
    <div class="border border-success">
   <table >
 <tr>
-  <th scope="col" style="background:#55ff00">Latest Job</th>
-      
-      
+  <th scope="col" style="background:#55ff00">Latest Job</th>     
 </tr>
 <tbody class="tbody" >
+  <tr>
+ <td> <a href="ssc cpo2020.html">SSC CPO Sub Inspector Online Form 2020 </a><span style="color:rgb(255,0,0)"></span></td>  
+</tr>
+   <tr>
+ <td> <a href="BPSCmains.html">BPSC 65th Mains Online Form 2020 </a><span style="color:rgb(255,0,0)">Extended</span></td>  
+</tr>
+  <tr>
+ <td> <a href="bpscmotor20.html">BPSC Motor Vehicle Inspector MVI Recruitment Online Form 2020 </a><span style="color:rgb(255,0,0)">Extended</span></td>  
+</tr>
+   <tr>
+ <td> <a href="BPSCAE.html">BPSC Assistant Engineer Form 2020 </a><span style="color:rgb(255,0,0)">Extended</span></td>  
+</tr>
+  <tr>
+ <td> <a href="ntpc2020.html">NTPC Engineering Trainee Online Form 2020</a><span style="color:rgb(255, 0, 102)"> New</span></td> 
+  </tr>
+  <tr>
+ <td> <a href="ndaII.html">UPSC NDA II Online Form 2020</a><span style="color:rgb(255, 0, 102)">New</span></td> 
+</tr>
   
   <tr>
  <td> <a href="https://okayresult.com/AFCAT.html">AFCAT 02/2020 Online Form </a><span style="color:rgb(255, 0, 102)">New</span></td> 
@@ -170,39 +198,20 @@ background:rgb(0, 255, 255);
    <tr>
  <td> <a href="bpscmineral20.html">BPSC Mineral Development Officer MDO Online Form 2020 </a><span style="color:rgb(255, 0, 102)">New</span></td> 
 </tr>
-  
     <tr>
  <td> <a href="amin20.html">Bihar LRC (BCECE) Amin correction Of Application Form 2020 </a><span style="color:rgb(255, 0, 102)">New</span></td>
- 
-  
+
 </tr>
   <tr>
  <td> <a href="sebi20.html">SEBI Assistant Manager Online Form 2020 </a><span style="color:red">Extended</span></td>
- 
-  
-</tr>
-
-  
-<tr>
- <td> <a href="bpscmotor20.html">BPSC Motor Vehicle Inspector MVI Recruitment Online Form 2020 </a><span style="color:red">Extended</span></td>
- 
-  
-</tr>
+</tr> 
 
 <tr>
-  
- <td> <a href="drdo2020.html">DRDO Scientist B Recruitment 2020 Online Form</a> </td>
-
- 
+ <td> <a href="drdo2020.html">DRDO Scientist B Recruitment 2020 Online Form</a> </td> 
 </tr>
-
-<tr>
-  
+<tr> 
  <td><a href="bcece20.html">BCECE City Manager Recruitment Online Form 2020</a><span style="color:red">Extended</span></td>
- 
- 
 </tr>
-
 </tbody>
 </table>
 </div>
@@ -215,12 +224,19 @@ background:rgb(0, 255, 255);
   <th scope="col" style="background:#55ff00">Bihar/UP Job</th>     
 </tr>
 <tbody class="tbody" >
+   <tr>
+ <td> <a href="BPSCmains.html">BPSC 65th Mains Online Form 2020 </a><span style="color:rgb(255,0,0)">Extended</span></td>  
+</tr>
+  <tr>
+ <td> <a href="BPSCAE.html">BPSC Assistant Engineer Form 2020 </a><span style="color:rgb(255,0,0)">Extended</span></td>  
+</tr>
+   <tr>
+ <td> <a href="bpscmotor20.html">BPSC Motor Vehicle Inspector MVI Recruitment Online Form 2020 </a><span style="color:rgb(255,0,0)">Extended</span></td>  
+</tr>
       <tr>
  <td> <a href="amin20.html">Bihar LRC (BCECE) Amin correction Of Application Form 2020 </a><span style="color:red">New</span></td>  
 </tr>
-<tr>
- <td> <a href="bpscmotor20.html">BPSC Motor Vehicle Inspector MVI Recruitment Online Form 2020 </a><span style="color:red">Extended</span></td> 
-</tr>
+
 <tr>
  <td><a href="bcece20.html">BCECE City Manager Recruitment Online Form 2020</a><span style="color:red">Extended</span></td>
  
@@ -248,6 +264,10 @@ background:rgb(0, 255, 255);
       
 </tr>
 <tbody class="tbody" >
+    <tr>
+ <td> <a href="ntpc2020.html">NTPC Engineering Trainee Online Form 2020</a><span style="color:rgb(255, 0, 102)"> New</span></td> 
+</tr>
+   
 <tr>
  <td><a href="drdo2020.html">DRDO Scientist B<br> Recruitment 2020<br> Online Form</a> </td>
  
@@ -277,6 +297,9 @@ background:rgb(0, 255, 255);
       
 </tr>
 <tbody class="tbody" >
+   <tr>
+ <td><a href="Bihar Police Squad.html">Bihar Police Squad Constable PET Admit Card 2020</a> <span style="color:red">New</span> </td> 
+</tr>
   <tr>
  <td><a href="fcidvtest.html">FCI Various Post DV Test Admit Card 2020</a> <span style="color:red">New</span> </td> 
 </tr>
@@ -319,6 +342,10 @@ background:rgb(0, 255, 255);
       
 </tr>
 <tbody class="tbody" >
+  <tr>
+ <td><a href="https://s.docworkspace.com/d/ALGhf3yygfwuoeHz-dSdFA">Introduction to The Design and Analysis of Algorithms(Levitin)</a></td>
+</tr>
+
 <tr>
  <td><a href="https://vijayrampeesa.files.wordpress.com/2016/07/computer-system-architecture-morris-mano-third-edition.pdf"> Computer System Architecture-morris mano</a></td>
   
@@ -359,7 +386,7 @@ background:rgb(0, 255, 255);
 </div> 
       </div>
   
-  <script data-ad-client="ca-pub-7863323163812436" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+ 
   <div class="text-center mt-2">
   <h5><span style="text-align:center;color:blue">contact us :<svg class="bi bi-envelope-fill" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
   <path fill-rule="evenodd" d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555zM0 4.697v7.104l5.803-3.558L0 4.697zM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-1.239-.757zm3.436-.586L16 11.801V4.697l-5.803 3.546z"/>
@@ -372,6 +399,11 @@ background:rgb(0, 255, 255);
    
  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<div><footer>
+  <p>Author: Hege Refsnes<br>
+  <a href="mailto:hege@example.com">hege@example.com</a></p>
+</footer>
+  </div>
 
 </body>
 </html>
