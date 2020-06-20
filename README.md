@@ -56,7 +56,7 @@ table {
 	border-radius: 10px 10px 0 0;
 	color: #fff;
 	font-family: 'Muli';
-	padding: 7px 15px;
+	padding: 7px 35px;
 	position: fixed;
 	bottom: 0;
 	left: 50%;
