@@ -14,7 +14,6 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
- <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">	
 </head>
 <style type="text/css">
   body {
@@ -108,19 +107,7 @@ table {
 </style>
 
 <body data-spy="scroll"  data-offset="50">
-	<div class="w3-top">
-  <div class="w3-bar w3-white w3-wide w3-padding w3-card">
-    <a href="#home" class="w3-bar-item w3-button"><b>BR</b> Architects</a>
-    <!-- Float links to the right. Hide them on small screens -->
-    <div class="w3-right w3-hide-small">
-      <a href="#projects" class="w3-bar-item w3-button">Projects</a>
-      <a href="#about" class="w3-bar-item w3-button">About</a>
-      <a href="#contact" class="w3-bar-item w3-button">Contact</a>
-    </div>
-  </div>
-</div>
-	
-   <div class="container text-center">                             
+      <div class="container text-center">                             
   <div class="spinner-grow text-danger pt-0 mt-0 "></div>
    <div class="spinner-grow text-white"><span style="color:red;text-align:center; font-size:15px">Live</span></div>
 </div>
@@ -159,9 +146,11 @@ table {
 </nav>
 
 <div class="text-center mt-2">
-     <span class="vjss"><h3>
-<span class="badge badge-primary mr-1 " style="background:rgb(255, 255, 51)" ><a href="photos.html">Gallery</a></span><span class="badge mr-1" style="background:rgb(26,255,255)"><a href="https://www.worldometers.info/coronavirus/country/india/"><span style="color:rgb(255, 0, 102)">India Corona</span></a></span><span class="badge " style="background:rgb(255, 0, 102)"><a href="https://vijay6781.github.io/Lifelong/"><span style="color:rgb(26, 255, 255)">Book</span></a></span></h3></span>
-  </div>  
+    <h3>
+<span class="badge badge-primary mr-1 " style="background:rgb(255, 255, 51)" ><a href="photos.html">Gallery</a></span><span class="badge mr-1" style="background:rgb(26,255,255)"><a href="https://www.worldometers.info/coronavirus/country/india/"><span style="color:rgb(255, 0, 102)">India Corona</span></a></span><span class="badge " style="background:rgb(255, 0, 102)"><a href="https://vijay6781.github.io/Lifelong/"><span style="color:rgb(26, 255, 255)">Book</span></a></span></h3>
+  </div>
+  
+  
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center mx-auto">
      <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
@@ -430,24 +419,24 @@ table {
 </tr>
 <tbody class="tbody" >
   <tr>
- <td><a href="https://s.docworkspace.com/d/ALGhf3yygfwuoeHz-dSdFA">Introduction to The Design and Analysis of Algorithms(Levitin)</a></td>
+ <td id="p2"><a href="https://s.docworkspace.com/d/ALGhf3yygfwuoeHz-dSdFA">Introduction to The Design and Analysis of Algorithms(Levitin)</a></td>
 </tr>
 
 <tr>
- <td><a href="https://vijayrampeesa.files.wordpress.com/2016/07/computer-system-architecture-morris-mano-third-edition.pdf"> Computer System Architecture-morris mano</a></td>
+ <td id="p2"><a href="https://vijayrampeesa.files.wordpress.com/2016/07/computer-system-architecture-morris-mano-third-edition.pdf"> Computer System Architecture-morris mano</a></td>
   
 </tr>
 
 <tr> 
- <td><a href="https://drive.google.com/file/d/180HeUYxeNXV3aH80WYrJn8peHetGCMzG/view?usp=drivesdk">C++ Book Download</a></td>
+ <td id="p2"><a href="https://drive.google.com/file/d/180HeUYxeNXV3aH80WYrJn8peHetGCMzG/view?usp=drivesdk">C++ Book Download</a></td>
  
 </tr>
 <tr>
- <td><a href="https://drive.google.com/file/d/107NaCd45SMfJ-bzTbfaScPTfoAelNV3U/view"> Data Structure and Algorithm  C++ </a></td>
+ <td id="p2"><a href="https://drive.google.com/file/d/107NaCd45SMfJ-bzTbfaScPTfoAelNV3U/view"> Data Structure and Algorithm  C++ </a></td>
   
 </tr>
 <tr> 
- <td><a href="https://drive.google.com/file/d/1KBA52BqklL54ncL59p7z7eJd52DTjnX9/view">Lecture Notes on Data Structure</a></td>
+ <td id="p2"><a href="https://drive.google.com/file/d/1KBA52BqklL54ncL59p7z7eJd52DTjnX9/view">Lecture Notes on Data Structure</a></td>
   
 </tr>
 </tbody>
@@ -467,7 +456,7 @@ table {
 <div class="content_area">
 <div class="container ">
  <div class="border border-danger ml-3 mr-2 mt-4"><h2 style="background:rgba(255, 0, 102,0.8)"><a href="https://okayresult.com/"> <sapn style="color:rgb(255,255,255)">Okay Result</sapn></a></h2>
-<p><strong>Okay Result</strong> provide all of you latest Job Information. As we know that sometimes we miss opportunity due to lack of information about coming latest Job. Okay Result provide you lastest Sarkari job as well as sarkari result. <br></p>
+	 <p><strong>Okay Result</strong> provide all of you latest Job Information. As we know that sometimes we miss opportunity due to lack of information about coming latest Job. Okay Result provide you lastest Sarkari job as well as sarkari result. <br></p>
    <h3><a href="https://okayresult.com/"><span style="color:red"> www.okayresult.com</span></a></h3>
     </div>     
 </div> 
@@ -509,21 +498,12 @@ setInterval(function(){
     body.style.background="rgb(47, 4, 255)";
     isblue=1;
 	}
-},1500);
-	
-var h1=document.querySelectorAll("th");
-isblue=1;
-setInterval(function(){
-	if(isblue==1){
-		h1.style.color="red";
-		isblue=2;
-	}
-	else if(isblue==2){
-	 	h1.style.color="blue";
-	 	isblue=1;
-	}
-	
-},1000);
+},2000);
+	$(document).ready(function(){
+  $("#p2").mouseenter(function(){
+    alert("You Want to Download Book!");
+  });
+});
 	</script>
 </body>
 </html>
