@@ -144,12 +144,12 @@ table {
     </ul>
   </div>  
 </nav>
-
+<div class="vjss">
 <div class="text-center mt-2">
     <h3>
 <span class="badge badge-primary mr-1 " style="background:rgb(255, 255, 51)" ><a href="photos.html">Gallery</a></span><span class="badge mr-1" style="background:rgb(26,255,255)"><a href="https://www.worldometers.info/coronavirus/country/india/"><span style="color:rgb(255, 0, 102)">India Corona</span></a></span><span class="badge " style="background:rgb(255, 0, 102)"><a href="https://vijay6781.github.io/Lifelong/"><span style="color:rgb(26, 255, 255)">Book</span></a></span></h3>
   </div>
-  
+  </div>
   
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center mx-auto">
@@ -499,6 +499,20 @@ setInterval(function(){
     isblue=1;
 	}
 },1500);
+	
+var h1=document.querySelector("#vjss");
+isblue=1;
+setInterval(function(){
+	if(isblue==1){
+		h1.style.color="red";
+		isblue=2;
+	}
+	else if(isblue==2){
+	 	h1.style.color="blue";
+	 	isblue=1;
+	}
+	
+},1000);
 	</script>
 </body>
 </html>
