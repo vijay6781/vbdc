@@ -156,10 +156,11 @@ table {
      <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
     <div class="border border-success">
   <table >
-  
+  <thead>
 <tr>
 	<th scope="col" style="background:rgb(0,255,1)">Result</th>  
 </tr>
+	    </thead>
 <tbody class="tbody" >
 	   <tr>
  <td><a href="http://hssc.gov.in/hssccms/uploads/results/98778-GROUP-D-Waiting.pdf">Download HSSC Group D 2018 Waiting List</a><span style="color:rgb(255,0,25)"> New</span> </td>  
@@ -231,9 +232,11 @@ table {
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-2 mt-3">     
    <div class="border border-success">
   <table >
+	  <thead>
 <tr>
   <th scope="col" style="background:rgb(0,255,1)">Latest Job</th>     
 </tr>
+		  </thead>
 <tbody class="tbody" >
 	<tr>
  <td> <a href="RajsthanJE.html">RSMSSB Junior Engineer JE Online Form 2020</a><span style="color:rgb(255,0,0)"> Extended</span></td>  
@@ -289,10 +292,11 @@ table {
     <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-2 mt-3">
    <div class="border border-success">
      <table >
-  
+  <thead>
 <tr>
   <th scope="col" style="background:rgb(0,255,1)">Bihar/UP Job</th>     
 </tr>
+	  </thead>
 <tbody class="tbody" >
    <tr>
  <td> <a href="BPSCmains.html">BPSC 65th Mains Online Form 2020 </a><span style="color:rgb(255,0,0)">Extended</span></td>  
@@ -327,12 +331,13 @@ table {
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
    <div class="border border-success">
      <table >
-  
+  <thead>
 <tr>
   <th scope="col" style="background:rgb(0,255,1)">Tech job</th>
         
       
 </tr>
+</thead>
 <tbody class="tbody" >
 	<tr>
  <td> <a href="RajsthanJE.html">RSMSSB Junior Engineer JE Online Form 2020</a><span style="color:rgb(255,0,0)"> Extended</span></td>  
@@ -363,12 +368,13 @@ table {
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
    <div class="border border-success">
      <table >
-  
+<thead>  
 <tr>
   <th scope="col" style="background:rgb(0,255,1)">Admit Card </th>
         
       
 </tr>
+</thead>
 <tbody class="tbody" >
 	 <tr>
  <td><a href="biharpolice.html"> Bihar Police PET Admit Card</a><span style="color:rgb(255,0,25)"> New</span> </td>  
@@ -411,32 +417,33 @@ table {
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
    <div class="border border-success">
      <table >
-  
+  <thead>
 <tr>
   <th scope="col" style="background:rgb(0,255,1)">college/university Book</th>
         
       
 </tr>
+</thead>
 <tbody class="tbody" >
   <tr>
- <td id="p2"><a href="https://s.docworkspace.com/d/ALGhf3yygfwuoeHz-dSdFA">Introduction to The Design and Analysis of Algorithms(Levitin)</a></td>
+ <td><a href="https://s.docworkspace.com/d/ALGhf3yygfwuoeHz-dSdFA">Introduction to The Design and Analysis of Algorithms(Levitin)</a></td>
 </tr>
 
 <tr>
- <td id="p2"><a href="https://vijayrampeesa.files.wordpress.com/2016/07/computer-system-architecture-morris-mano-third-edition.pdf"> Computer System Architecture-morris mano</a></td>
+ <td><a href="https://vijayrampeesa.files.wordpress.com/2016/07/computer-system-architecture-morris-mano-third-edition.pdf"> Computer System Architecture-morris mano</a></td>
   
 </tr>
 
 <tr> 
- <td id="p2"><a href="https://drive.google.com/file/d/180HeUYxeNXV3aH80WYrJn8peHetGCMzG/view?usp=drivesdk">C++ Book Download</a></td>
+ <td><a href="https://drive.google.com/file/d/180HeUYxeNXV3aH80WYrJn8peHetGCMzG/view?usp=drivesdk">C++ Book Download</a></td>
  
 </tr>
 <tr>
- <td id="p2"><a href="https://drive.google.com/file/d/107NaCd45SMfJ-bzTbfaScPTfoAelNV3U/view"> Data Structure and Algorithm  C++ </a></td>
+ <td><a href="https://drive.google.com/file/d/107NaCd45SMfJ-bzTbfaScPTfoAelNV3U/view"> Data Structure and Algorithm  C++ </a></td>
   
 </tr>
 <tr> 
- <td id="p2"><a href="https://drive.google.com/file/d/1KBA52BqklL54ncL59p7z7eJd52DTjnX9/view">Lecture Notes on Data Structure</a></td>
+ <td><a href="https://drive.google.com/file/d/1KBA52BqklL54ncL59p7z7eJd52DTjnX9/view">Lecture Notes on Data Structure</a></td>
   
 </tr>
 </tbody>
@@ -500,8 +507,8 @@ setInterval(function(){
 	}
 },2000);
 	$(document).ready(function(){
-  $("#p2").mouseenter(function(){
-    alert("You Want to Download Book!");
+  $("thead").click(function(){
+    $("td").toggle();
   });
 });
 	</script>
