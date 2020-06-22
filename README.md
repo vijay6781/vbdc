@@ -14,6 +14,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+ <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">	
 </head>
 <style type="text/css">
   body {
@@ -107,7 +108,19 @@ table {
 </style>
 
 <body data-spy="scroll"  data-offset="50">
-      <div class="container text-center">                             
+	<div class="w3-top">
+  <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+    <a href="#home" class="w3-bar-item w3-button"><b>BR</b> Architects</a>
+    <!-- Float links to the right. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+      <a href="#projects" class="w3-bar-item w3-button">Projects</a>
+      <a href="#about" class="w3-bar-item w3-button">About</a>
+      <a href="#contact" class="w3-bar-item w3-button">Contact</a>
+    </div>
+  </div>
+</div>
+	
+   <div class="container text-center">                             
   <div class="spinner-grow text-danger pt-0 mt-0 "></div>
    <div class="spinner-grow text-white"><span style="color:red;text-align:center; font-size:15px">Live</span></div>
 </div>
