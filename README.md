@@ -498,7 +498,7 @@ setInterval(function(){
 	}
 },1500);
 	
-var h1=document.querySelector(".vjss");
+var h1=document.querySelector(".badge");
 isblue=1;
 setInterval(function(){
 	if(isblue==1){
