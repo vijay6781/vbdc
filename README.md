@@ -2,12 +2,13 @@
 <head>
 <html lang="en">
 <head>
-  <title>okayresult.com, Okay Result, Ok Result, okayresult,#Okay Result, #okResult, okay Result,ओके रिजल्ट , Sarkari Result 2020</title>
+  <title> Okay Result: okayresult.com, Okay Result, Ok Result, okayresult,#Okay Result, #okResult, okay Result,ओके रिजल्ट , Sarkari Result 2020</title>
   <meta charset="utf-8">
-  <meta name="description" content="Okay result, Okay Results,okresult,okayresult, Sarkari Results, ओके रिजल्ट, सरकारी रिजल्ट्स - OkayResult.com provides latest official Sarkari Result, Online Forms, Sarkari Naukri Jobs in various sectors such as Railway, Bank, SSC, Army, Navy, Police, UPPSC, BPSC,UPSSSC & other sarkari job.">
+  <meta name="description" content="Okay result, Okay Results,okresult,okayresult, Sarkari Results, ओके रिजल्ट, सरकारी रिजल्ट्स - OkayResult.com provides latest official Sarkari Result, Online Forms,Sarkari Naukri Jobs in various sectors such as Railway, Bank, SSC, Army, Navy, Police, UPPSC, BPSC,UPSSSC & other sarkari job,Specially fast Job Result,Bihar/up Result by #Okay Result.">
   <meta name="keywords" content="Okay Result,OkayResUlt, OKResult, okayresult, Sarkariresult, Sarkari, Sarkariresults">
   <meta name="rating" content="general">
   <meta name="distribution" content="global">
+  <link rel="canonical" href="https://okayresult.com/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -44,9 +45,9 @@ table {
   border-color: #55ff00;
 }
 .footerv{
-  padding: 1.6%;;
+  padding: 1.8%;;
   margin-top: 20px;
-  margin-bottom:2px;
+  margin-bottom:1px;
   color:#ffffff;
   background-color:#e8491d;
   text-align:center;
@@ -93,14 +94,14 @@ table {
 .floating-btn:focus {
 	outline: none;
 }
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 1024px) {
 
 .social-panel-container.visible {
 		transform: translateX(0px);
 }
 	
 .floating-btn {
-	right:25px;
+	right:12px;
 }
 }
 </style>
@@ -157,11 +158,12 @@ table {
   <table >
   
 <tr>
-  <th scope="col" style="background:#55ff00">Result</th>
-        
-      
+	<th scope="col" style="background:rgb(0,255,1)">Result</th>  
 </tr>
 <tbody class="tbody" >
+	   <tr>
+ <td><a href="http://hssc.gov.in/hssccms/uploads/results/98778-GROUP-D-Waiting.pdf">Download HSSC Group D 2018 Waiting List</a><span style="color:rgb(255,0,25)"> New</span> </td>  
+</tr>
    <tr>
  <td><a href="biharpolice.html"> Bihar Police PET Admit Card</a><span style="color:rgb(255,0,25)"> New</span> </td>  
 </tr>
@@ -233,6 +235,9 @@ table {
   <th scope="col" style="background:#55ff00">Latest Job</th>     
 </tr>
 <tbody class="tbody" >
+	<tr>
+ <td> <a href="RajsthanJE.html">RSMSSB Junior Engineer JE Online Form 2020</a><span style="color:rgb(255,0,0)"> Extended</span></td>  
+</tr>
   <tr>
  <td> <a href="ssc cpo2020.html">SSC CPO Sub Inspector Online Form 2020 </a><span style="color:rgb(255,0,0)"></span></td>  
 </tr>
@@ -329,6 +334,9 @@ table {
       
 </tr>
 <tbody class="tbody" >
+	<tr>
+ <td> <a href="RajsthanJE.html">RSMSSB Junior Engineer JE Online Form 2020</a><span style="color:rgb(255,0,0)"> Extended</span></td>  
+</tr>
     <tr>
  <td> <a href="ntpc2020.html">NTPC Engineering Trainee Online Form 2020</a></td> 
 </tr>
@@ -362,6 +370,9 @@ table {
       
 </tr>
 <tbody class="tbody" >
+	 <tr>
+ <td><a href="biharpolice.html"> Bihar Police PET Admit Card</a><span style="color:rgb(255,0,25)"> New</span> </td>  
+</tr>
    <tr>
  <td><a href="Bihar Police Squad.html">Bihar Police Squad Constable PET Admit Card 2020</a> <span style="color:red">New</span> </td> 
 </tr>
@@ -446,7 +457,7 @@ table {
 <div class="container ">
  <div class="border border-danger ml-3 mr-2 mt-4"><h2 style="background:rgba(255, 0, 102,0.8)"><a href="https://okayresult.com/"> <sapn style="color:rgb(255,255,255)">Okay Result</sapn></a></h2>
 <p>Okay Result provide all of you latest Job Information. As we know that sometimes we miss opportunity due to lack of information about coming latest Job. Okay Result provide you lastest Sarkari job as well as sarkari result. <br></p>
-   <h3><a href="https://okayresult.com/"><span style="color:red"> type: www.okayresult.com</span></a></h3>
+   <h3><a href="https://okayresult.com/"><span style="color:red"> www.okayresult.com</span></a></h3>
     </div>     
 </div> 
       </div>
@@ -464,12 +475,30 @@ table {
  </div>
  </div>
  </div>
- <button class="floating-btn">
-	<a href="https://www.facebook.com/Okay-Result-109287330820751/"> Join Fb</a>
-</button>
  <div class="floating-text">
-	<a href="https://okayresult.com/" target="_blank"> type:www.okayresult.com</a>
+	type:<a href="https://okayresult.com/" target="_blank">www.okayresult.com</a>
 </div>
- 
+ <script type="text/javascript">
+	var body=document.querySelector(".floating-text");
+isblue=1;
+setInterval(function(){
+	if(isblue==1){
+		body.style.background="rgb(255, 255, 0)";
+		isblue=2;
+	}
+	else if(isblue==2){
+	 body.style.background="rgb(255, 4, 2)";
+	 	isblue=3;
+	}
+	else if(isblue==3){
+    body.style.background="rgb(0, 255, 1)";
+    isblue=4;
+	}
+	else if(isblue==4){
+    body.style.background="rgb(47, 4, 255)";
+    isblue=1;
+	}
+},1500);
+	</script>
 </body>
 </html>
