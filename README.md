@@ -14,6 +14,14 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script> 
+$(document).ready(function(){
+  $("#flip").click(function(){
+    $("#panel").slideToggle("slow");
+  });
+});
+</script>
 </head>
 <style type="text/css">
   body {
@@ -158,10 +166,10 @@ table {
   <table >
   <thead>
 <tr>
-	<div id="vs1"><th scope="col" style="background:rgb(0,255,1)">Result</th></div>  
+	<div id="flip"><th scope="col" style="background:rgb(0,255,1)">Result</th></div>  
 </tr>
 	    </thead>
-<tbody class="tbody" >
+<tbody class="tbody" id="panel" >
 	 <tr>
  <td><a href="https://results.cg.nic.in/node10">CG HIGHSCHOOL (10th) EXAMINATION RESULT 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
 </tr>
