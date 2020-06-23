@@ -164,12 +164,12 @@ table {
      <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
     <div class="border border-success">
   <table >
-  <thead id="flip">
+  <div id="flip"> <thead >
 <tr>
-	<div id="vs1"><th scope="col" style="background:rgb(0,255,1)">Result</th></div>  
+	<th scope="col" style="background:rgb(0,255,1)">Result</th>  
 </tr>
-	    </thead>
-<tbody class="tbody" id="panel" >
+	  </thead></div>
+<div id="panel"><tbody class="tbody" >
 	 <tr>
  <td><a href="https://results.cg.nic.in/node10">CG HIGHSCHOOL (10th) EXAMINATION RESULT 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
 </tr>
@@ -239,6 +239,7 @@ table {
 </tr>
 
 </tbody>
+</div>
 </table >
 </div>
     </div>
