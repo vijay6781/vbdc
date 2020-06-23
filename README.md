@@ -508,7 +508,7 @@ setInterval(function(){
 },2000);
 	$(document).ready(function(){
   $("thead").click(function(){
-    $("td").toggle();
+    $("td[0]").toggle();
   });
 });
 	</script>
