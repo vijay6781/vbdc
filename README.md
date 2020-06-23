@@ -158,7 +158,7 @@ table {
   <table >
   <thead>
 <tr>
-	<th scope="col" style="background:rgb(0,255,1)">Result</th>  
+	<div id="vs1"><th scope="col" style="background:rgb(0,255,1)">Result</th></div>  
 </tr>
 	    </thead>
 <tbody class="tbody" >
@@ -508,7 +508,7 @@ setInterval(function(){
 },2000);
 	$(document).ready(function(){
   $("thead").click(function(){
-    $("td[0]").toggle();
+    $("#vs1").toggle();
   });
 });
 	</script>
