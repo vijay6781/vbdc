@@ -164,9 +164,9 @@ table {
      <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
     <div class="border border-success">
   <table >
-  <thead>
+  <thead id="flip">
 <tr>
-	<div id="flip"><th scope="col" style="background:rgb(0,255,1)">Result</th></div>  
+	<div id="vs1"><th scope="col" style="background:rgb(0,255,1)">Result</th></div>  
 </tr>
 	    </thead>
 <tbody class="tbody" id="panel" >
