@@ -23,7 +23,9 @@ $(document).ready(function(){
 });
 $("li").click(function(){
 	if($(this).css("color")!=="rgb(0,0,0)"){
-	$(this).css("color","red");
+	$(this).css({
+	color:"red"
+	});
 	}
 	});
 </script>
