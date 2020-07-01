@@ -21,6 +21,11 @@ $(document).ready(function(){
     $("#panel").slideToggle("slow");
   });
 });
+$("li").click(function(){
+	if($(this).css("color")!=="rgb(0,0,0)"){
+	$(this).css("color","red");
+	}
+	});
 </script>
 </head>
 <style type="text/css">
