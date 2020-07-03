@@ -14,28 +14,23 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script> 
-$(document).ready(function(){
-  $("#flip").click(function(){
-    $("#panel").slideToggle("slow");
-  });
-});
-$("li").click(function(){
-	if($(this).css("color")!=="rgb(0,0,0)"){
-	$(this).css({
-	color:"red"
-	});
-	}
-	});
+	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-171018261-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-171018261-1');
 </script>
+
 </head>
 <style type="text/css">
   body {
-	
-background: #ECE9E6;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #FFFFFF, #ECE9E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: #FEAC5E;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
    font-family: 'Roboto', sans-serif;  position: relative; 
   }
   
@@ -163,28 +158,48 @@ table {
   </div>  
 </nav>
 
+  <script async src="https://cse.google.com/cse.js?cx=007234223769253818867:bk17khd0zka"></script>
+<div class="gcse-search"></div>
+
 <div class="text-center mt-2">
     <h3>
 <span class="badge badge-primary mr-1 " style="background:rgb(255, 255, 51)" ><a href="photos.html">Gallery</a></span><span class="badge mr-1" style="background:rgb(26,255,255)"><a href="https://www.worldometers.info/coronavirus/country/india/"><span style="color:rgb(255, 0, 102)">India Corona</span></a></span><span class="badge " style="background:rgb(255, 0, 102)"><a href="https://vijay6781.github.io/Lifelong/"><span style="color:rgb(26, 255, 255)">Book</span></a></span></h3>
   </div>
-  
-  
+    
 <div class="container-fluid table-hover  table-striped">
   <div class="row text-center mx-auto">
      <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
-    <div class="border border-success">
+    <div class=" bg-white border border-success">
   <table >
-  <div id="flip"> <thead >
+  
 <tr>
 	<th scope="col" style="background:rgb(0,255,1)">Result</th>  
 </tr>
-	  </thead></div>
-<div id="panel"><tbody class="tbody" >
+<tbody class="tbody" >
+	
 	 <tr>
- <td><a href="https://results.cg.nic.in/node10">CG HIGHSCHOOL (10th) EXAMINATION RESULT 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+ <td> SSC CGL Result<br><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_1_01072020.pdf">List1 |</a><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_2_01072020.pdf">List2 |</a><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_3_NR_01072020.pdf">List3 |</a><a href="https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/LIST_3_Other%20than%20NR_01072020.pdf">List4 |</a><span style="color:rgb(255,0,25)"> New</span> </td>  
 </tr>
 	 <tr>
- <td><a href="https://results.cg.nic.in/node12">CG HIGHER SECONDARY (12th) EXAMINATION RESULT 2020</a><span style="color:rgb(255,0,25)"> New</span> </td>  
+ <td><a href="biharpolice.html">Bihar Police PET PostPond </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+</tr>
+		 <tr>
+ <td><a href="https://okayresult.com/biharboard2020.html">Bihar  12th Scrutiny Result 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+</tr>
+	 <tr>
+ <td><a href="https://upmsp.edu.in/ResultHighSchoolZXCVMNB.aspx">UP 10th Result 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+</tr>
+	 <tr>
+ <td><a href="https://upmsp.edu.in/ResultIntermediateZXCVMNB.aspx">UP 12th Result 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+</tr>
+	 <tr>
+ <td><a href="http://upsssc.gov.in/ResultsDire.aspx">UPSSSC Lower Subordinate Post Result 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+</tr>
+	 <tr>
+ <td><a href="https://results.cg.nic.in/node10">CG 10th EXAMINATION RESULT 2020 </a><span style="color:rgb(255,0,25)"> New</span> </td>  
+</tr>
+	 <tr>
+ <td><a href="https://results.cg.nic.in/node12">CG 12th EXAMINATION RESULT 2020</a><span style="color:rgb(255,0,25)"> New</span> </td>  
 </tr>
 	   <tr>
  <td><a href="http://hssc.gov.in/hssccms/uploads/results/98778-GROUP-D-Waiting.pdf">Download HSSC Group D 2018 Waiting List</a><span style="color:rgb(255,0,25)"> New</span> </td>  
@@ -249,20 +264,48 @@ table {
 </tr>
 
 </tbody>
-</div>
 </table >
 </div>
     </div>
  
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-2 mt-3">     
-   <div class="border border-success">
+   <div class="bg-white border border-success">
   <table >
-	  <thead>
-<tr>
-  <th scope="col" style="background:rgb(0,255,1)">Latest Job</th>     
+	  <tr>
+	<th scope="col" style="background:rgb(0,255,1)">Latest Job</th>  
 </tr>
-		  </thead>
+
 <tbody class="tbody" >
+	<tr>
+ <td> <a href="BiharsepoyHomeguard20.html">Bihar Police Sepoy Constable Form 2020
+</a><span style="color:rgb(255,0,0)">New</span></td>  
+</tr>
+	<tr>
+ <td> <a href="https://okayresult.com/ibps.html">IBPS RRB IX Office Assistant Form 2020
+</a><span style="color:rgb(255,0,0)">New</span></td>  
+</tr>
+	<tr>
+ <td> <a href="sscjh.html">SSC Junior Hindi Translator Form 2020
+</a><span style="color:rgb(255,0,0)">New</span></td>  
+</tr>
+	<tr>
+ <td> <a href="cgciviljudge.html">CGPSC Civil Judge 2019 Mains Online Form</a><span style="color:rgb(255,0,0)">New</span></td>  
+</tr>
+	<tr>
+ <td> <a href="https://okayresult.com/cgpsc.html">CGPSC MAINS Online Form </a><span style="color:rgb(255,0,0)">New</span></td>  
+</tr>
+		<tr>
+ <td> <a href="railwayer.html">Railway ER Apprentice Online Form 2020 </a><span style="color:rgb(255,0,0)">Re-Open</span></td>  
+</tr>
+		<tr>
+ <td> <a href="https://okayresult.com/biharCHO.html">Bihar SHS 1050 Post Online form  </a><span style="color:rgb(255,0,0)"></span></td>  
+</tr>
+	<tr>
+ <td> <a href="Bihar Police Lady.html"> Bihar Police Lady Constable 2020  </a><span style="color:rgb(255,0,0)">new</span></td>  
+</tr>
+		<tr>
+ <td> <a href="sbi2020.html">  SBI SCO Various Post Online Form   </a><span style="color:rgb(255,0,0)">new</span></td>  
+</tr>
 	<tr>
  <td> <a href="RajsthanJE.html">RSMSSB Junior Engineer JE Online Form 2020</a><span style="color:rgb(255,0,0)"> Extended</span></td>  
 </tr>
@@ -315,14 +358,22 @@ table {
 </div>
     </div>
     <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4 pr-2 mt-3">
-   <div class="border border-success">
+   <div class=" bg-white border border-success">
      <table >
-  <thead>
+  
 <tr>
   <th scope="col" style="background:rgb(0,255,1)">Bihar/UP Job</th>     
 </tr>
-	  </thead>
 <tbody class="tbody" >
+	<tr>
+  
+ <td><a href="https://okayresult.com/biharboard2020.html">Bihar Board 12th  Scrutiny Result 2020</a></td>
+
+ 
+</tr>
+	<tr>
+ <td> <a href="https://okayresult.com/biharCHO.html">Bihar SHS 1050 Post Online form  </a><span style="color:rgb(255,0,0)"></span></td>  
+</tr>
    <tr>
  <td> <a href="BPSCmains.html">BPSC 65th Mains Online Form 2020 </a><span style="color:rgb(255,0,0)">Extended</span></td>  
 </tr>
@@ -342,28 +393,25 @@ table {
  
 </tr>
 
-<tr>
-  
- <td><a href="Biharscrutiny20.html">Bihar Board Scrutiny / RTI Form 2020</a></td>
 
- 
-</tr>
 
 </tbody>
 </table >
     </div>
     </div>
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
-   <div class="border border-success">
+   <div class="bg-white border border-success">
      <table >
-  <thead>
+  
 <tr>
   <th scope="col" style="background:rgb(0,255,1)">Tech job</th>
         
       
 </tr>
-</thead>
 <tbody class="tbody" >
+	<tr>
+ <td> <a href="railwayer.html">Railway ER Apprentice Online Form 2020 </a><span style="color:rgb(255,0,0)">Re-Open</span></td>  
+</tr>
 	<tr>
  <td> <a href="RajsthanJE.html">RSMSSB Junior Engineer JE Online Form 2020</a><span style="color:rgb(255,0,0)"> Extended</span></td>  
 </tr>
@@ -391,15 +439,14 @@ table {
  </div>
  
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
-   <div class="border border-success">
+   <div class="bg-white border border-success">
      <table >
-<thead>  
+  
 <tr>
   <th scope="col" style="background:rgb(0,255,1)">Admit Card </th>
         
       
 </tr>
-</thead>
 <tbody class="tbody" >
 	 <tr>
  <td><a href="biharpolice.html"> Bihar Police PET Admit Card</a><span style="color:rgb(255,0,25)"> New</span> </td>  
@@ -440,16 +487,21 @@ table {
 </div>
     </div>
    <div class="col-sm-4 col-xs-4 col-md-4 col-lg-4  pr-2 mt-3">
-   <div class="border border-success">
+   <div class="bg-white border border-success">
      <table >
-  <thead>
+  
 <tr>
   <th scope="col" style="background:rgb(0,255,1)">college/university Book</th>
         
       
 </tr>
-</thead>
 <tbody class="tbody" >
+	 <tr>
+ <td><a href="https://drive.google.com/file/d/11R-X-TmqNs_Ip6IGtWbb64lgnx6e41Gx/view?usp=drivesdk">Probability and Statics(T.Veerarajan)</a></td> 
+</tr>
+	 <tr>
+ <td><a href="https://drive.google.com/file/d/11L-CEWQcY0FUOylHe6hQiA5nKpclk4Wr/view"> Operating System Principles (Abraham Silberschatz)</a></td> 
+</tr>
   <tr>
  <td><a href="https://s.docworkspace.com/d/ALGhf3yygfwuoeHz-dSdFA">Introduction to The Design and Analysis of Algorithms(Levitin)</a></td>
 </tr>
@@ -487,7 +539,7 @@ table {
       <div class="text-center ml-5 mr-5 mb-1 mt-4"><h3><span class="badge badge-primary  mr-1" style="background:rgb(255, 255, 51)"><a href="https://www.facebook.com/Okay-Result-109287330820751/">Join me on Facebook</a></span></h3></div>
 <div class="content_area">
 <div class="container ">
- <div class="border border-danger ml-3 mr-2 mt-4"><h2 style="background:rgba(255, 0, 102,0.8)"><a href="https://okayresult.com/"> <sapn style="color:rgb(255,255,255)">Okay Result</sapn></a></h2>
+ <div class=" bg-white border border-danger ml-3 mr-2 mt-4"><h2 style="background:rgba(255, 0, 102,0.8)"><a href="https://okayresult.com/"> <sapn style="color:rgb(255,255,255)">Okay Result</sapn></a></h2>
 	 <p><strong>Okay Result</strong> provide all of you latest Job Information. As we know that sometimes we miss opportunity due to lack of information about coming latest Job. Okay Result provide you lastest Sarkari job as well as sarkari result. <br></p>
    <h3><a href="https://okayresult.com/"><span style="color:red"> www.okayresult.com</span></a></h3>
     </div>     
@@ -531,11 +583,15 @@ setInterval(function(){
     isblue=1;
 	}
 },2000);
-	$(document).ready(function(){
-  $("thead").click(function(){
-    $("#vs1").toggle();
-  });
-});
 	</script>
+	
+	
+	<!-- Start pot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/8023822.js"></script>
+<!-- End of pot Embed Code -->
+	
+	<!-- Start of pot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/8023822.js"></script>
+<!-- End of pot Embed Code -->
 </body>
 </html>
